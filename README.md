@@ -143,10 +143,11 @@ I found the following passage from this [research paper](https://itrau.co/Gender
 <!------------------------------------------------>
 <!------------------------------------------------>
 
-## A little known fact about me…
+## Little Known Facts About Me...
 
-<details><summary>Hx</summary>
+<details><summary>One</summary>
 <p>
+
 Is that I am/was a nurse, I graduated from Gordon State College in December 2012 with an Associates of Science in Nursing and immediately passed my NCLEX for RN licensure; which I let expire years ago after joining the ranks of Apple corporate. 
 
 I worked professionally as a nurse for a month before quitting, the emotional toll of a career surrounded by illness and death and loosing patients on a daily basis was something I could not do. 
@@ -160,12 +161,31 @@ Blood lab values, toxicology reports, vital signs, urine labs, etc, serve the pu
 </p>
 </details>
 
+<details><summary>Two</summary>
+<p>
+
+What drew me to medicine was an encounter with Central Asia bound Doctors Without Borders nurses during a fall 2009 academic study abroad at Moscow State University in Russia; I felt the energy of their cause and canceled plans to attend UGA for Russian Studies...
+
+I lived in Moscow for six months, and in the summer of 2012, I attended Belarussian State University in Minsk, Belarus for six weeks; every two years since then I have returned to Minsk for a two - three week trip abroad.
+
+I studied Russian at Georgia Tech as a dual-enrollment student during my time at Gordon College, and fell in love with everything GT... 
+
+</p>
+</details>
+
+<details><summary>Three</summary>
+<p>
+
+</p>
+</details>
+
 <!------------------------------------------------>
 <!------------------------------------------------>
 ## EBP in Software Engineering 
 
-<details><summary>AKA Empirical Software Engineering</summary>
+<details><summary>Is known as Empirical Software Engineering...</summary>
 <p>
+
 Technology, distributed computer systems, coding workflows, networks, etc, are nothing more then interconnected systems that breakdown over time just like the human body, with performance and monitoring metrics/KPIs as the equivalent of toxicology screenings and blood lab values in the operational decisions making process of corrective systems ops interventions. 
 
 Evidence-based practice approach methodologies in the realm of software engineering and design are relatively new concepts, until recently, EBP imperism simply did not exist in this field. 
@@ -207,9 +227,9 @@ I argue that monolithic ITILv3 driven cultures are the most vulnerable, due to t
 <details><summary>Empirical Software Engineering: From Discipline to Interdiscipline</summary>
 <p>
 
-The following excerpt from this paper is the smoking gun I needed to confirm a suspiciion, a feeling, a spidey-sense if you feel, that the 'high touch' software discipline of the educational learning model used throughout the 'coding bootcamp' industry has not yet been exposed to EBP in the classroom...
+The following excerpt from the following [paper](https://itrau.co/gh-ebse2) is the smoking gun I needed to confirm a suspiciion, a feeling, a spidey-sense if you feel, that the 'high touch' software discipline of the educational learning model used throughout the 'coding bootcamp' industry has not yet been exposed to EBP in the classroom...
 
-> Although recent developments have improved our empirical understanding of software engineering practices and processes, the current state of evidence is still weak when compared to other more mature fields. A large extent of our everyday prac- tice in software engineering is still governed more by conventional wisdom than it is governed by empirical evidence. This is especially true for the social, cultural, and political aspects of software engineer- ing, such as early stages of development, rendering the inference of robust theories inherently problem- atic.
+> Although recent developments have improved our empirical understanding of software engineering practices and processes, the current state of evidence is still weak when compared to other more mature fields. A large extent of our everyday practice in software engineering is still governed more by conventional wisdom than it is governed by empirical evidence. This is especially true for the social, cultural, and political aspects of software engineering, such as early stages of development, rendering the inference of robust theories inherently problem- atic.
 
 > Even though we can observe an increase of empirical studies in the various fields of software engineering research, many studies still do provide either circumstantial evidence by focusing on isolated contexts without taking into account the relation to existing evidence or – worse – they neglect the context completely. The effects are portrayed by Jacobson’s observation in context of the SEMAT initiative [35]: software engineering is gravely hampered by (1) the prevalence of fads more typical of fashion industry than of an engineering discipline; (2) the lack of a sound, widely accepted theoretical basis; (3) the huge number of methods and method variants, with differences little understood and artificially magnified; (4) the lack of credible experimental evaluation and validation; and finally (5) the split between industry practice and academic research. The consequence of the current situation are best described by Wohlin et al. saying that
  
@@ -241,28 +261,50 @@ EBSD is both an art and a science sprinkled with a liberal arts style of critica
 
 </p>
 </details>
-
-<!------------------------------------------------>
-<!------------------------------------------------>
-## Scope of Impact
+</p>
+</details>
 
 <!------------------------------------------------>
 <!------------------------------------------------>
 ## Current Work
 
-<details><summary>Software Industry Discipline vs. Interdisciplinary Practices</summary>
+<details><summary>Killing the 'Coding Bootcamp' Stigma</summary>
 <p>
 
-It took some time, but the EBP perspective and mindset that nursing instilled in me, combined with a very passionate decades old hobby in the field of industrial design and textile engineering has finally merged with my newfound coding abilities and is has made for one hell of a perspective on my DC student experience. 
+I consider any/all DC graduates engineers, on the same level as myself, because DC is a school, an institution, dedicated to the art of educating students in the science of the coding workflow processes needed to establish a lifelong career in the world of tech; unlike ‘coding bootcamps,’ which I view as assembly lines turning out fresh patches of junior developers ‘every three weeks.’
 
-I consider any/all DC graduates engineers, on the same level as myself, because DC is a school dedicated to learning the art of coding for life; unlike a ‘coding bootcamps,’ which I view as assembly lines turning out fresh patches of junior developers ‘every three weeks.’
-
-I have hard datasets that are now forming based on 9+ months of figuring out how in the hell to track, monitor, and interpret metrics from the GitHub API, LinkedIn, SEO, and so much more… 
-
-This early attempt to define metrics and KPIs for my work will result in the posting of a project and tutorial next Tuesday, February 11th, 2020; exactly one year to the day I started DigitalCrafts.
+There is a clear and present distinction between the quality of the education I recieved at DC vs. what I would have learned somewhere with 20+ nationwide locations...
 
 </p>
 </details>
+
+
+
+<!------------------------------------------------>
+<!------------------------------------------------>
+## A Return to Academia
+
+<details><summary>KSU</summary>
+<p>
+
+Kennesaw State University's offers a Masters in Systems Engineering I have been eyeing for years... 
+</p>
+</details>
+
+<details><summary>The Development of a Theory...</summary>
+<p>
+
+
+</p>
+</details>
+
+<details><summary>The GRE in April 2020</summary>
+<p>
+
+
+</p>
+</details>
+
 <!------------------------------------------------>
 <!------------------------------------------------>
 
