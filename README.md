@@ -8,9 +8,7 @@ width="250" title="iTrauco" alt="iTrauco"></a>
 <!-- BADGES -->
 [![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) [![HitCount](http://hits.dwyl.com/itrauco/evidence-base-software-engineering.svg)](http://hits.dwyl.com/itrauco/evidence-base-software-engineering) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
 
-Long before code school I was an engineer, documented by work I thought was lost until I found it in the Internet Archive; platform-dependence on Etsy nearly killed Nerdy Pug Studios after the closure of the 'Wholesale Marketplace' and radical changes to seller/store fee structures in the fall of 2018 that forced me to shut it down overnight. 
-
-Aligning my background with the world of Software Engineering through a decades long interdisciplinary history of industrial design, textile engineering, and a deeply engrained awareness for the ideals of evidence-based practice imperism is who I am at my core; the following words defined the core mission and spirit of Nerdy Pug Studios...
+Aligning my background with the world of Software Engineering through a decades long interdisciplinary history of industrial design, textile engineering, and a deeply engrained awareness for the ideals of evidence-based practice imperism has been hard for me; the following words defined the spirit of a passion project called Nerdy Pug Studios that closed overnight in 2018 due to platform-dependence on Etsy... 
 
 **Our evolving identity is a fusion of multiple stereotypical industry traits, combined with a strong respect and adherence to the empirical and evidence-based practice approach methodologies. We're science geeks, and our creations, particularly our harnesses, are the result of extensive research, development, and prototyping.** 
 
@@ -25,7 +23,7 @@ You can checkout the [Internet Archive](https://itrau.co/IA-nps) or see a summar
 </p>
 </details>
 
-<details><summary>Werner von Braun's Influence</summary>
+<details><summary>von Braun's Influence</summary>
 <p>
 
 **Apollo von Braun**
@@ -118,26 +116,38 @@ For example
 
 <details><summary>Imposter Syndrome</summary>
 <p>
-A few years ago, I started a Masters in Information Systems(IS) but stopped taking classes after completing 1/2 of my program because I felt plateaued in my IT career due to an ability to code/program. 
 
-I have always been embarrassed by the BA in General Studies on my resume, so much so that I let the self-doubt of imposter syndrome consume me in my post-DigitalCrafts software industry job search. 
+A few years ago, I started a Masters in Information Systems(IS) but stopped taking classes after completing 1/2 of my program because I was plateaued in my IT career due to an ability to code/program. 
+
+I was always been embarrassed by the BA in General Studies on my resume, so much so that I let the self-doubt of imposter syndrome consume me in my post-DigitalCrafts software industry job search. 
 
 My technical/IT background landed me interviews that most code school grads would have been passed over for by HR/IT Recruiters, and I witnessed firsthand the ‘stigma’ of the ‘coding bootcamp graduate’ stereotype that so many Senior SEs hold. 
 
-</p>
-</details>
+This 'stigma' is widespread due to the rise of 'nerd-masculinity' in the field of computer science that occured in 1970s to early 1980s as the sector transitioned from a female dominated one to a male dominated one; and it remains widespread through senior level engineering positions in all sectors. 
 
-
-</p>
-</details>
-
-<!------------------------------------------------>
-<!------------------------------------------------>
-
-## A little known fact about me…
-
-<details><summary>Hx</summary>
+<details><summary>NETWORKS OF EXCLUSION IN A GENDERED ORGANIZATION IN THE HIGH-TECH INDUSTRY</summary>
 <p>
+
+I found the following passage from this [research paper](https://itrau.co/GenderNetworks) particularly insightful on the topic... 
+
+> The masculinization of software and computing occurred later in the 20th century, as again men actively worked to professionalize the field in line with other scientific disciplines, establishing structural and cultural boundaries in ways that excluded women from the field (Misa 2010). Newly-implemented aptitude tests and personality profiling in hiring processes, for example, privileged masculine characteristics. Increasingly specialized job titles and hierarchies distanced high-skilled labor from work seen as low status and routine, offering increased social status, greater autonomy, better pay, and improved opportunities for advancement for men (Ensmenger 2010). As men solidified their hold over computing and engineering, computer culture became associated with “nerds” – young, white, educated men who “tinker” with technology.
+
+> Pages 27 - 28
+</p>
+</details>
+</p>
+</details>
+</p>
+</details>
+
+<!------------------------------------------------>
+<!------------------------------------------------>
+
+## Little Known Facts About Me...
+
+<details><summary>One</summary>
+<p>
+
 Is that I am/was a nurse, I graduated from Gordon State College in December 2012 with an Associates of Science in Nursing and immediately passed my NCLEX for RN licensure; which I let expire years ago after joining the ranks of Apple corporate. 
 
 I worked professionally as a nurse for a month before quitting, the emotional toll of a career surrounded by illness and death and loosing patients on a daily basis was something I could not do. 
@@ -151,12 +161,31 @@ Blood lab values, toxicology reports, vital signs, urine labs, etc, serve the pu
 </p>
 </details>
 
+<details><summary>Two</summary>
+<p>
+
+What drew me to medicine was an encounter with Central Asia bound Doctors Without Borders nurses during a fall 2009 academic study abroad at Moscow State University in Russia; I felt the energy of their cause and canceled plans to attend UGA for Russian Studies...
+
+I lived in Moscow for six months, and in the summer of 2012, I attended Belarussian State University in Minsk, Belarus for six weeks; every two years since then I have returned to Minsk for a two - three week trip abroad.
+
+I studied Russian at Georgia Tech as a dual-enrollment student during my time at Gordon College, and fell in love with everything GT... 
+
+</p>
+</details>
+
+<details><summary>Three</summary>
+<p>
+
+</p>
+</details>
+
 <!------------------------------------------------>
 <!------------------------------------------------>
 ## EBP in Software Engineering 
 
-<details><summary>AKA Empirical Software Engineering</summary>
+<details><summary>Is known as Empirical Software Engineering...</summary>
 <p>
+
 Technology, distributed computer systems, coding workflows, networks, etc, are nothing more then interconnected systems that breakdown over time just like the human body, with performance and monitoring metrics/KPIs as the equivalent of toxicology screenings and blood lab values in the operational decisions making process of corrective systems ops interventions. 
 
 Evidence-based practice approach methodologies in the realm of software engineering and design are relatively new concepts, until recently, EBP imperism simply did not exist in this field. 
@@ -169,30 +198,51 @@ After months of objective reflection and analysis, I finally located EBP in this
 
 <!------------------------------------------------>
 <!------------------------------------------------>
-## The Need for Empirical Software Engineering 
+## EBP is Interdisciplinary
 
-<details><summary>The USSR Failed to Automate</summary>
+<details><summary>An Evolving Perspective...</summary>
 <p>
 
-```
-“
+Four years ago, I wrote the following words in my last undergraduate [research paper](itrau.co/soviettech)...
 
-To highlight the nature of the inefficiencies plaguing the Soviet Union’s industrial capabilities, a review of the technological and industrial challenges faced by Gorbachev when he assumed the Office of the General Secretary provides sufficient illustration(Gibbs, 11-14). In 1977, the last year of reliable data, there were an estimated 20,000 computers in the entire Soviet Union, compared to 325,000 in the United States alone(Bailer, 77). It is estimated that by the mid-1980s, there were 25 computers in the United States for every 1 in the Soviet Union, a ratio of 25/1(Bailer, 77).  With a twenty year headstart on research in the newly emerged field of computer science, the West leveraged the power of the microprocessor to automate tasks, calculate vast quantities of data in ever shorter periods of time, and instantly access this information on distributed systems thousands of miles apart through the first computer networks. 
+<details><summary> How Gorbachev's Reforms Synergized the Intentions of the Reagan Doctrine</summary>
+<p>
 
-The United States had unintentionally exploited the artificial existence of Moore’s Law, which dictates, “The capabilities of computers will double every 18 to 24 months(Brock, 34).” Our nation developed the first truly computerized military systems, one such codenamed “ARPANENT(Salus, VIII).” The US even had the audacity to publicly announce what is now popularly referred to as “Project Star Wars(Cort, 77-78),” an idea born from the West’s technological capabilities to place low-earth-orbit satellites in space capable of deflecting Western bound ICBMs(Cort, 78-79). The Soviet Union was in no place to even attempt such a feat, as the rampant technological inadequacies of the USSR culminated in the global embarrassment to the capabilities of the Soviet sciences during the failure of the nuclear power station at Chernobyl in 1986. 
+> To highlight the nature of the inefficiencies plaguing the Soviet Union’s industrial capabilities, a review of the technological challenges faced by Gorbachev when he assumed the Office of the General Secretary provides sufficient illustration(Gibbs, 11-14). In 1977, the last year of reliable data, there were an estimated 20,000 computers in the entire Soviet Union, compared to 325,000 in the United States alone(Bailer, 77). It is estimated that by the mid-1980s, there were 25 computers in the United States for every 1 in the Soviet Union, a ratio of 25/1(Bailer, 77).  With a twenty year headstart on research in the newly emerged field of computer science, the West leveraged the power of the microprocessor to automate tasks, calculate vast quantities of data in ever shorter periods of time, and instantly access this information on distributed systems thousands of miles apart through the first computer networks. 
 
-If there ever was a wakeup call to Soviet leadership, this was it.
+> The United States had unintentionally exploited the artificial existence of Moore’s Law, which dictates, “The capabilities of computers will double every 18 to 24 months(Brock, 34).” Our nation developed the first truly computerized military systems, one such codenamed “ARPANENT(Salus, VIII).” The US even had the audacity to publicly announce what is now popularly referred to as “Project Star Wars(Cort, 77-78),” an idea born from the West’s technological capabilities to place low-earth-orbit satellites in space capable of deflecting Western bound ICBMs(Cort, 78-79). The Soviet Union was in no place to even attempt such a feat, as the rampant technological inadequacies of the USSR culminated in the global embarrassment to the capabilities of the Soviet sciences during the failure of the nuclear power station at Chernobyl in 1986. 
 
-“
-```
+> If there ever was a wakeup call to Soviet leadership, this was it.
+
 </p>
 </details>
 
-<details><summary>Empirical Software Engineering</summary>
-<p>
-Four years ago, I wrote these words in my last undergraduate research paper; I understood that runaway technical debt from the failure to automate ‘high-touch’ processes is what led to the collapse of the USSR; modern day tech firms are operationally no different and just as susceptible to the illusion of stability that unwavering adherence to ‘tradition’  can bring.
+I understood that runaway technical debt from the failure to automate ‘high-touch’ processes is what led to the collapse of the USSR; modern day tech firms are operationally no different and just as susceptible to the illusion of stability that unwavering adherence to ‘tradition’  can bring.
 
-I argue that monolithic ITILv3 driven cultures are the most vulnerable, due to the divisional silos that result from unintentional adherence to industry SOPs that have becomes relics and artifacts of the past with the rise of AGILE and LEAN technology governance ways of doing things with ITILv4.
+<details><summary>Arguments for Empirical Software Engineering Adoption</summary>
+<p>
+
+I argue that monolithic ITILv3 driven cultures are the most vulnerable, due to the divisional silos that result from unintentional adherence to industry SOPs that have becomes relics and artifacts of the past with the rise of AGILE and LEAN technology governance ways of doing things in ITILv4.
+
+<details><summary>Empirical Software Engineering: From Discipline to Interdiscipline</summary>
+<p>
+
+The following excerpt from the following [paper](https://itrau.co/gh-ebse2) is the smoking gun I needed to confirm a suspiciion, a feeling, a spidey-sense if you feel, that the 'high touch' software discipline of the educational learning model used throughout the 'coding bootcamp' industry has not yet been exposed to EBP in the classroom...
+
+> Although recent developments have improved our empirical understanding of software engineering practices and processes, the current state of evidence is still weak when compared to other more mature fields. A large extent of our everyday practice in software engineering is still governed more by conventional wisdom than it is governed by empirical evidence. This is especially true for the social, cultural, and political aspects of software engineering, such as early stages of development, rendering the inference of robust theories inherently problem- atic.
+
+> Even though we can observe an increase of empirical studies in the various fields of software engineering research, many studies still do provide either circumstantial evidence by focusing on isolated contexts without taking into account the relation to existing evidence or – worse – they neglect the context completely. The effects are portrayed by Jacobson’s observation in context of the SEMAT initiative [35]: software engineering is gravely hampered by (1) the prevalence of fads more typical of fashion industry than of an engineering discipline; (2) the lack of a sound, widely accepted theoretical basis; (3) the huge number of methods and method variants, with differences little understood and artificially magnified; (4) the lack of credible experimental evaluation and validation; and finally (5) the split between industry practice and academic research. The consequence of the current situation are best described by Wohlin et al. saying that
+ 
+> “there exists no generally accepted theory in software engineering [...]. Some laws3, hypotheses and conjectures exist, but yet no generally accepted theory” [36]. As a matter of fact, a large extent of the theories (or theory patterns) we have for soft- ware engineering are still transferred from theories in other disciplines (e.g. organisational psychology), sometimes by adopting them, but mostly by transferring them verbatim [37].
+
+> Software engineering itself however is often still governed by folklore turned into facts [38]. Similarly as in other fields before, many theories specific to software engineering emerged from the early times of the discipline where empiricism had no significance at all and where claims by authorities where often treated as facts. One prominent example for such a “fact” is grounded in the wellknown essay by Edsger Dijkstra Go To Statement Considered Harmful [39] from 1968, largely based on reasoning by argument and triggering a public exchange between different scholars via published notes (all considering the previous note as “harmful” itself). Although this exchange fostered an important and fruitful debate in the community at that time, it still remained largely a public exchange between scholars based on reasoning by argument. This did not change until 2015, nearly 50 years lager, when Nagappan et al. [40] published the results of their largescale study analysing C code from GitHub repositories and suggesting that the use of goto statements in practice does not appear to be harmful.
+</p>
+</details>
+
+Additionally, this applies to countless enterprise technology-first environments and teams... 
+
+<details><summary>ITILv3 is Legacy AF</summary>
+<p>
 
 ITILv3 is so obsessed with processes improvement in the form of written proposals, that metrics and KPIs of any type are never implimented, so the decision makers in such orgs remain in the dark to their actual state of tech.
 
@@ -200,7 +250,10 @@ The adoption of evidence-based practice approach methodologies as a key componen
 
 I do not have actual numbers or stats, but, past experience in ITILv3 IT and Kanban/DevOps SE environments has provided me with the insight to know that the 'eye opening' reality for most orgs doesn't occur until an outsider with no understanding of current processes is brought in. 
 
-EBSD adoption goes far beyond the capabilities of Splunk, Nagios, or monitoring tools of any type, because it is something that does not exist as an off the shelf tool; it's a mindset, a perspective, a way of looking at things and searching for scientific, peer reviewed papers and case studies to assess and test the situation. 
+EBSD adoption goes far beyond the capabilities of Splunk, Nagios, or monitoring tools of any type, because it is something that does not exist as an off the shelf tool; it's a mindset, a perspective, a way of looking at things and searching for scientific, peer reviewed papers and case studies to assess and test the situation.
+
+</p>
+</details> 
 
 EBSD requires an org, on every level, to exist in a constant state of evolution in response to new and emerging discoveries that drive innovation from the bottom-up, not the top-down.
 
@@ -208,28 +261,50 @@ EBSD is both an art and a science sprinkled with a liberal arts style of critica
 
 </p>
 </details>
-
-<!------------------------------------------------>
-<!------------------------------------------------>
-## Scope of Impact
+</p>
+</details>
 
 <!------------------------------------------------>
 <!------------------------------------------------>
 ## Current Work
 
-<details><summary>Software Industry Discipline vs. Interdisciplinary Practices</summary>
+<details><summary>Killing the 'Coding Bootcamp' Stigma</summary>
 <p>
 
-It took some time, but the EBP perspective and mindset that nursing instilled in me, combined with a very passionate decades old hobby in the field of industrial design and textile engineering has finally merged with my newfound coding abilities and is has made for one hell of a perspective on my DC student experience. 
+I consider any/all DC graduates engineers, on the same level as myself, because DC is a school, an institution, dedicated to the art of educating students in the science of the coding workflow processes needed to establish a lifelong career in the world of tech; unlike ‘coding bootcamps,’ which I view as assembly lines turning out fresh patches of junior developers ‘every three weeks.’
 
-I consider any/all DC graduates engineers, on the same level as myself, because DC is a school dedicated to learning the art of coding for life; unlike a ‘coding bootcamps,’ which I view as assembly lines turning out fresh patches of junior developers ‘every three weeks.’
-
-I have hard datasets that are now forming based on 9+ months of figuring out how in the hell to track, monitor, and interpret metrics from the GitHub API, LinkedIn, SEO, and so much more… 
-
-This early attempt to define metrics and KPIs for my work will result in the posting of a project and tutorial next Tuesday, February 11th, 2020; exactly one year to the day I started DigitalCrafts.
+There is a clear and present distinction between the quality of the education I recieved at DC vs. what I would have learned somewhere with 20+ nationwide locations...
 
 </p>
 </details>
+
+
+
+<!------------------------------------------------>
+<!------------------------------------------------>
+## A Return to Academia
+
+<details><summary>KSU</summary>
+<p>
+
+Kennesaw State University's offers a Masters in Systems Engineering I have been eyeing for years... 
+</p>
+</details>
+
+<details><summary>The Development of a Theory...</summary>
+<p>
+
+
+</p>
+</details>
+
+<details><summary>The GRE in April 2020</summary>
+<p>
+
+
+</p>
+</details>
+
 <!------------------------------------------------>
 <!------------------------------------------------>
 
