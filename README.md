@@ -1,9 +1,12 @@
 # evidence-based-software-engineering
 <a href="http://trau.co">
-<img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/ITRAUCO.png" 4
+<img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/ITRAUCO-black.png"
 width="250" title="iTrauco" alt="iTrauco"></a>
 
-<!-- [![iTrauco](https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/ITRAUCO.png)](http://trau.co) -->
+<!-- [![iTrauco](https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/ITRAUCO-black.png)](http://trau.co) -->
+
+<!-- BADGES -->
+[![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) [![HitCount](http://hits.dwyl.com/itrauco/evidence-base-software-engineering.svg)](http://hits.dwyl.com/itrauco/evidence-base-software-engineering) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
 
 Long before code school I was an engineer, documented by work I thought was lost until I found it in the Internet Archive; platform-dependence on Etsy nearly killed Nerdy Pug Studios after the closure of the 'Wholesale Marketplace' and radical changes to seller/store fee structures in the fall of 2018 that forced me to shut it down overnight. 
 
@@ -16,41 +19,38 @@ You can checkout the [Internet Archive](https://itrau.co/IA-nps) or see a summar
 <p>
 
 <br>
-<a href=""><img src="" title="nerdy-pug-about" alt="nerdy-pug-studios-about"></a>
+<a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/nerdy-pug-about.png" title="nerdy-pug-about" alt="nerdy-pug-studios-about"></a>
 </br>
 
 </p>
 </details>
 
-<details><summary>Von Braun's Influence</summary>
+<details><summary>Werner von Braun's Influence</summary>
 <p>
 
 **Apollo von Braun**
 
 Apollo von Braun, named in honor of famed rocket scientist Wernher von Braun, inventor of the V-2 rocket and an instrumental figure in the success of the Apollo Space Program. Apollo is a retired Schutzhund K9, w/ SchH1 & SchH2 titles.
 <br>
-<a href=""><img src="" title="von braun" alt="apollo-von-braun"></a>
+<a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/apollo-von-braun.png" title="von braun" alt="apollo-von-braun"></a>
 </br>
 </p>
 </details>
-
-<!-- BADGES -->
-[![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) [![HitCount](http://hits.dwyl.com/itrauco/evidence-base-software-engineering.svg)](http://hits.dwyl.com/itrauco/evidence-base-software-engineering) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
-
-
-
 
 
 ## Table of Contents
 
 ## DigitalCrafts Code School
 
-<details><summary>My Experience</summary>
+<details open><summary>My Experience</summary>
 <p>
 
 In the months since my code school graduation, the 00:00:00 timestamps that litter my [DigitalCrafts](https://digitalcrafts.com) GitHub era private repos have enabled me to use the recorded video lectures for a post-mortem analysis of my student developer experience at DigitalCrafts; and the insights I have gained from this process have been life-altering. 
 
 [Chris Aquino(@radishmouse)](https://github.com/radishmouse) was an exceptional instructor, and, in rewatching and listening to every recorded video lecture at least 2 -3 times over again, I now understand the message and direction he and the DIRS were trying to guide me to when I was a student developer. 
+
+[Public YouTube Video of Recorded DC Lecture](https://itrau.co/2019-05-02-lecture1)
+
 
 <details><summary>Hour:Minute:Second TimeStamps & Recorded Video Lectures</summary>
 <p>
@@ -58,6 +58,7 @@ In the months since my code school graduation, the 00:00:00 timestamps that litt
 <br> New material is covered so fast in a full-time, immersive code school classroom that even with my ability to type upwards of 100+ WPM, I found it impossible to jot down notes for everything I wanted to during lecture. 
 
 As a result, by week 3 or 4, I had adopted the use of timestamps as placement holders in the code I uploaded to GitHub that allowed me to backtrack to a specific moment in the recorded lecture videos very efficiently by corellating the timestamp with the clock time of my instructors Mac in the Hours:Minutes:Seconds format. </br>
+
 
 <details><summary>2019_05_02 Code Example</summary>
 <p>
@@ -75,6 +76,7 @@ Line four of the code block below highlights my usage of the Hour:Minute:Second 
 
 ...
 ```
+
 </p>
 </details>
 
@@ -96,13 +98,13 @@ For example
 ```
 
 <br>
-<a href=""><img src="" title="checkit-intro" alt="youtube-comments-example"></a>
+<a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/youtube-comments-example.png" title="youtube-comments" alt="youtube-comments-example"></a>
 </br>
 
 <details><summary>Video Mac Clock & Timestamp Matchup</summary>
 <p>
 <br>
-<a href=""><img src="" title="time-clock-example" alt="youtube-comments-example"></a>
+<a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/Screen%20Shot%202020-02-07%20at%207.46.51%20PM.png" title="time-clock-example" alt="time-clock-examples"></a>
 </br>
 
 </p>
