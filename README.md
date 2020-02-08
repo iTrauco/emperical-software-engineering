@@ -23,19 +23,6 @@ You can checkout the [Internet Archive](https://itrau.co/IA-nps) or see a summar
 </p>
 </details>
 
-<details><summary>von Braun's Influence</summary>
-<p>
-
-**Apollo von Braun**
-
-Apollo von Braun, named in honor of famed rocket scientist Wernher von Braun, inventor of the V-2 rocket and an instrumental figure in the success of the Apollo Space Program. Apollo is a retired Schutzhund K9, w/ SchH1 & SchH2 titles.
-<br>
-<a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/apollo-von-braun.png" title="von braun" alt="apollo-von-braun"></a>
-</br>
-</p>
-</details>
-
-
 ## Table of Contents
 
 ## DigitalCrafts Code School
