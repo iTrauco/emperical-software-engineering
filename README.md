@@ -8,7 +8,7 @@ width="250" title="iTrauco" alt="iTrauco"></a>
 <!-- BADGES -->
 [![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) [![HitCount](http://hits.dwyl.com/itrauco/evidence-base-software-engineering.svg)](http://hits.dwyl.com/itrauco/evidence-base-software-engineering) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
 
-Aligning my background with the world of Software Engineering through a decades long interdisciplinary history of industrial design, textile engineering, and a deeply engrained awareness for the ideals of evidence-based practice imperism has been hard for me; the following words defined the spirit of a passion project called Nerdy Pug Studios that closed overnight in 2018 due to platform-dependence on Etsy... 
+Aligning my background with the world of Software Engineering through a decades long interdisciplinary history of industrial design, textile engineering, and a deeply engrained awareness for the ideals of evidence-based practice empiricism has been hard for me; the following words defined the spirit of a passion project called Nerdy Pug Studios that closed overnight in 2018 due to platform-dependence on Etsy... 
 
 **Our evolving identity is a fusion of multiple stereotypical industry traits, combined with a strong respect and adherence to the empirical and evidence-based practice approach methodologies. We're science geeks, and our creations, particularly our harnesses, are the result of extensive research, development, and prototyping.** 
 
@@ -188,7 +188,7 @@ I studied Russian at Georgia Tech as a dual-enrollment student during my time at
 
 Technology, distributed computer systems, coding workflows, networks, etc, are nothing more then interconnected systems that breakdown over time just like the human body, with performance and monitoring metrics/KPIs as the equivalent of toxicology screenings and blood lab values in the operational decisions making process of corrective systems ops interventions. 
 
-Evidence-based practice approach methodologies in the realm of software engineering and design are relatively new concepts, until recently, EBP imperism simply did not exist in this field. 
+Evidence-based practice approach methodologies in the realm of software engineering and design are relatively new concepts, until recently, EBP empiricism simply did not exist in this field. 
 
 I now know that it was this lack of EBP at the heart of my struggles to grasp something as simple as Test Driven Development(TDD); even though I had long demonstrated a technical prowess for the single-direction logic of organizational Domain Driven Design(DDD) on teams in where the TDD subset of Behavorial Driven Design(BDD) was the norm. 
 
