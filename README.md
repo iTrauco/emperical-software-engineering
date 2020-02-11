@@ -276,9 +276,32 @@ EBSD is both an art and a science sprinkled with a liberal arts style of critica
 
 I consider any/all DC graduates engineers, on the same level as myself, because DC is a school, an institution, dedicated to the art of educating students in the science of the coding workflow processes needed to establish a lifelong career in the world of tech; unlike ‘coding bootcamps,’ which I view as assembly lines turning out fresh patches of junior developers ‘every three weeks.’
 
-There is a clear and present distinction between the quality of the education I recieved at DC vs. what I would have learned somewhere with 20+ nationwide locations...
+There is a clear and present distinction between the quality of the education I received at DC vs. what I would have learned somewhere with 20+ nationwide locations...
 
-</p>
+"Coding bootcamp graduates are NOT engineers..." is what I was told by Senior Software Engineers, but, what I now realize is that this field lacks credible theory and is based largely on 'tradition,' in the absence of inquiry into the multidimensional state of this field through the analysis of the scientific method and the collective advancement towards credible theories, the entire basis for their arguments exists as a house of cards on a straw foundation that is just one huff, and buff, away from being blown into oblivion...
+
+I argue that it is the diversity of the interdisciplinary educational backgrounds of code school grads that empowers us with the knowledge to view the 'state of things' in this field from an entirely outside perspective that will enable, for the first time, the establishment of concrete theories in this field; it is this advantage that we have over the classically trained software engineers of Ivey League engineers. 
+
+Their argument is based on 'tradition,' folklore, and conjecture that's the equivalent of the pseudosciences, and our interdisciplinary backgrounds threaten to expose that reality...
+
+The term software engineering was coined in 1968, at the NATO Software Engineering Conference by the conference chairman 'Bauer' he stated,
+
+```
+What we need is software engineering...
+```
+    
+This was the world of a 1960s era 'Mad Men' episode, it portrays the 'boys club' masculinity at its peak in America, and it is this culture of exclusion to women and colored minorities that coined the term 'software engineering.'
+
+It was this moment in history when the rise of 'nerd masculinity' began to take hold on the field and establish the barriers to diversity and inclusion that exist today...
+
+The greatest threat to the status quo of modern-day senior 'software engineers' is the 'God In Gaps' reveal to its existence that is well underway at this moment in time and evident through the continued call to arms to delivery on the overdue promises for diversity and inclusion in the upper ranks of every sector.
+
+I argue, that, with the arrival of the mainstreaming of the coding bootcamp phenomena underway today, that the interdisciplinary professional and educational background of student developers brings with it the risk of new perspectives and frameworks of scientific inquiry from fields with robust theories that can be applied to the state of software engineering practices, norms, and beliefs.
+
+Code school graduates are the gateway for a pool of technical talent with the expertise and a fresh perspective that threaten the state of ‘tradition’ as outsiders turned jury. 
+
+As a founding member of Out In Tech ATL, I am obligated to take this argument into the halls of academia and fight fire with fire. 
+<ep>
 </details>
 
 
