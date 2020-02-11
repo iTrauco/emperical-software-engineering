@@ -301,6 +301,10 @@ I argue, that, with the arrival of the mainstreaming of the coding bootcamp phen
 Code school graduates are the gateway for a pool of technical talent with the expertise and a fresh perspective that threaten the state of ‘tradition’ as outsiders turned jury. 
 
 As a founding member of Out In Tech ATL, I am obligated to take this argument into the halls of academia and fight fire with fire. 
+
+We have been stigmatized as being a 'bootleg' caste of wannabe technophiles by the Ivey League educated software engineers of yesteryear who have failed for fifty years to establish theory that can be peer-review duplicated, it is the absence of doctrine based on the principles of the scientific method that invalidates any claim they have to being 'scientists.' 
+
+
 <ep>
 </details>
 
