@@ -291,10 +291,10 @@ Extradorinaiy claims requires extradorinaiy evidence.
 
 ```
 
-</p>
-</details>
 
 This has quote has been a guiding principle of my life since I was kid, I idolize Sagan and his legacy. 
+</p>
+</details>
 
 
 <!------------------------------------------------>
