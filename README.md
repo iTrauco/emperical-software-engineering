@@ -6,7 +6,7 @@ width="250" title="iTrauco" alt="iTrauco"></a>
 <!-- [![iTrauco](https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/ITRAUCO-black.png)](http://trau.co) -->
 
 <!-- BADGES -->
-[![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) [![HitCount](http://hits.dwyl.com/itrauco/evidence-base-software-engineering.svg)](http://hits.dwyl.com/itrauco/evidence-base-software-engineering) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
+[![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
 
 Aligning my background with the world of Software Engineering through a decades long interdisciplinary history of industrial design, textile engineering, and a deeply engrained awareness for the ideals of evidence-based practice empiricism has been hard for me; the following words defined the spirit of a passion project called Nerdy Pug Studios that closed overnight in 2018 due to platform-dependence on Etsy... 
 
@@ -42,7 +42,7 @@ In the months since my code school graduation, the 00:00:00 timestamps that litt
 
 <br> New material is covered so fast in a full-time, immersive code school classroom that even with my ability to type upwards of 100+ WPM, I found it impossible to jot down notes for everything I wanted to during lecture. 
 
-As a result, by week 3 or 4, I had adopted the use of timestamps as placement holders in the code I uploaded to GitHub that allowed me to backtrack to a specific moment in the recorded lecture videos very efficiently by corellating the timestamp with the clock time of my instructors Mac in the Hours:Minutes:Seconds format. </br>
+As a result, by week four, I had adopted the use of timestamps as placement holders in the code I uploaded to GitHub that allowed me to backtrack to a specific moment in the recorded lecture videos very efficiently by corellating the timestamp with the clock time of my instructors Mac in the Hours:Minutes:Seconds format. </br>
 
 
 <details><summary>2019_05_02 Code Example</summary>
@@ -258,40 +258,43 @@ EBSD is both an art and a science sprinkled with a liberal arts style of critica
 <details><summary>Killing the 'Coding Bootcamp' Stigma</summary>
 <p>
 
-I consider any/all DC graduates engineers, on the same level as myself, because DC is a school, an institution, dedicated to the art of educating students in the science of the coding workflow processes needed to establish a lifelong career in the world of tech; unlike ‘coding bootcamps,’ which I view as assembly lines turning out fresh patches of junior developers ‘every three weeks.’
-
-There is a clear and present distinction between the quality of the education I received at DC vs. what I would have learned somewhere with 20+ nationwide locations...
-
 "Coding bootcamp graduates are NOT engineers..." is what I was told by Senior Software Engineers, but, what I now realize is that this field lacks credible theory and is based largely on 'tradition,' in the absence of inquiry into the multidimensional state of this field through the analysis of the scientific method and the collective advancement towards credible theories, the entire basis for their arguments exists as a house of cards on a straw foundation that is just one huff, and buff, away from being blown into oblivion...
 
-I argue that it is the diversity of the interdisciplinary educational backgrounds of code school grads that empowers us with the knowledge to view the 'state of things' in this field from an entirely outside perspective that will enable, for the first time, the establishment of concrete theories in this field; it is this advantage that we have over the classically trained software engineers of Ivey League engineers. 
+I argue that it is the diversity of the interdisciplinary educational backgrounds of code school grads that empowers us with the knowledge to view the 'state of things' in this field from an entirely outside perspective that will enable, for the first time, establish concrete theories in this field; it is this advantage that we have over the classically trained Ivey League-educated software engineers of the past. 
 
 Their argument is based on 'tradition,' folklore, and conjecture that's the equivalent of the pseudosciences, and our interdisciplinary backgrounds threaten to expose that reality...
 
 The term software engineering was coined in 1968, at the NATO Software Engineering Conference by the conference chairman 'Bauer' he stated,
 
 ```
-What we need is software engineering...
+What we need is software engineering.
 ```
     
-This was the world of a 1960s era 'Mad Men' episode, it portrays the 'boys club' masculinity at its peak in America, and it is this culture of exclusion to women and colored minorities that coined the term 'software engineering.'
+This was the world of a 1960s era 'Mad Men' episode, it portrays the 'boys club' masculinity at its peak in America, and it is this culture of exclusion to women and colored minorities that serves as the founding fathers of 'software engineering' as a field study. 
 
-It was this moment in history when the rise of 'nerd masculinity' began to take hold on the field and establish the barriers to diversity and inclusion that exist today...
+It was this moment in history when the rise of 'nerd masculinity' began to take hold on the field and establish the barriers to diversity and inclusion that still exist today...
 
-The greatest threat to the status quo of modern-day senior 'software engineers' is the 'God In Gaps' reveal to its existence that is well underway at this moment in time and evident through the continued call to arms to delivery on the overdue promises for diversity and inclusion in the upper ranks of every sector.
+The greatest threat to the status quo of modern-day senior 'software engineers' is the 'God In Gaps' reveal to its existence that is well underway at this moment in time and evident through the continued call to arms to deliver on overdue promises for diversity and inclusion in the upper ranks of every sector.
 
 I argue, that, with the arrival of the mainstreaming of the coding bootcamp phenomena underway today, that the interdisciplinary professional and educational background of student developers brings with it the risk of new perspectives and frameworks of scientific inquiry from fields with robust theories that can be applied to the state of software engineering practices, norms, and beliefs.
 
 Code school graduates are the gateway for a pool of technical talent with the expertise and a fresh perspective that threaten the state of ‘tradition’ as outsiders turned jury. 
 
-As a founding member of Out In Tech ATL, I am obligated to take this argument into the halls of academia and fight fire with fire. 
+As a founding member of Out In Tech ATL, I am obligated to take this argument into the halls of academia to fight fire with fire. 
 
-We have been stigmatized as being a 'bootleg' caste of wannabe technophiles by the Ivey League educated software engineers of yesteryear who have failed for fifty years to establish theory that can be peer-review duplicated, it is the absence of doctrine based on the principles of the scientific method that invalidates any claim they have to being 'scientists.' 
+We have been stigmatized as being a 'bootleg' caste of wannabe technophiles by the Ivey League-educated software engineers of yesteryear who have failed for fifty years to establish theory that can be peer-review duplicated, it is the absence of doctrine based on the principles of the scientific method that invalidates any claim they have to being  'scientists.' 
 
+```
+Extradorinaiy claims requires extradorinaiy evidence.
+
+- Carl Sagan
+
+```
 
 </p>
 </details>
 
+This has quote has been a guiding principle of my life since I was kid, I idolize Sagan and his legacy. 
 
 
 <!------------------------------------------------>
@@ -319,12 +322,22 @@ Kennesaw State University's offers a Masters in Systems Engineering I have been 
 </p>
 </details>
 
-<!------------------------------------------------>
-<!------------------------------------------------>
+<!--- LEGEND --->
+<!-------------->
+## Legend
 
-## 
+### Terms A - Z
+<details><summary>A - Z</summary>
+<p>
 
-<!------------------------------------------------>
-<!------------------------------------------------>
-
-## 
+- Alanta(ATL): DC Headquarters in Atlanta, Georgia 
+- DigitalCrafts(DC): An accelerated code school for tech
+- Evidence-based Practice(EBP): Any practice that relies on scientific and mathematical evidence to form strong inductive or deductive arguments for guidance and decision-making. Practices that are not evidence-based may rely on tradition, intuition, or other unproven methods.
+- Evidence-based Software Design(EBSD): A personally coined term that is fully interchangeable with Empirical Software Engineering(ESE) that denote the exact same thing/idea.
+- Empirical Software Engineering(ESE): Is a research area concerned with the empirical observation of software engineering artifacts and the empirical validation of software engineering theories and assumptions.
+- Houston(HOU): The DC Houston, Texas Campus
+- Software Engineering(SE): the creation and maintenance of software. But from a research perspective, software engineering is the body of knowledge about the creation and maintenance of software and about the phenomena underlying and emerging from those two activities.
+- Post-Mortem Analysis(PMA):  An empirical study method in software engineering. It is an important, but often forgotten, way of gathering empirical knowledge. PMA is ideally performed either soon after the most important milestones and events or at the end of a project, both in s uccessful and unsuccessful software development projects. The benefit is that post-mortems can often reveal findings more frequently and differently than project completion reports alone.
+- Tampa(TPA): The DC Tampa Bay, Florida Campus
+</p>
+</details>
