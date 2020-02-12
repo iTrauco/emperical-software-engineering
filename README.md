@@ -3,8 +3,6 @@
 <img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/ITRAUCO-black.png"
 width="250" title="iTrauco" alt="iTrauco"></a>
 
-<!-- [![iTrauco](https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/ITRAUCO-black.png)](http://trau.co) -->
-
 <!-- BADGES -->
 [![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
 
@@ -255,7 +253,7 @@ EBSD is both an art and a science sprinkled with a liberal arts style of critica
 <!------------------------------------------------>
 ## Current Work
 
-<details><summary>Killing the 'Coding Bootcamp' Stigma</summary>
+<details><summary>Killing the 'Coding Bootcamp Graduate' Stigma</summary>
 <p>
 
 "Coding bootcamp graduates are NOT engineers..." is what I was told by Senior Software Engineers, but, what I now realize is that this field lacks credible theory and is based largely on 'tradition,' in the absence of inquiry into the multidimensional state of this field through the analysis of the scientific method and the collective advancement towards credible theories, the entire basis for their arguments exists as a house of cards on a straw foundation that is just one huff, and buff, away from being blown into oblivion...
@@ -285,12 +283,10 @@ As a founding member of Out In Tech ATL, I am obligated to take this argument in
 We have been stigmatized as being a 'bootleg' caste of wannabe technophiles by the Ivey League-educated software engineers of yesteryear who have failed for fifty years to establish theory that can be peer-review duplicated, it is the absence of doctrine based on the principles of the scientific method that invalidates any claim they have to being  'scientists.' 
 
 ```
-Extradorinaiy claims requires extradorinaiy evidence.
+extraordinary claims requires extraordinary evidence.
 
 - Carl Sagan
-
 ```
-
 
 This has quote has been a guiding principle of my life since I was kid, I idolize Sagan and his legacy. 
 </p>
@@ -330,7 +326,7 @@ Kennesaw State University's offers a Masters in Systems Engineering I have been 
 <details><summary>A - Z</summary>
 <p>
 
-- Alanta(ATL): DC Headquarters in Atlanta, Georgia 
+- Atlanta(ATL): DC Headquarters in Atlanta, Georgia 
 - DigitalCrafts(DC): An accelerated code school for tech
 - Evidence-based Practice(EBP): Any practice that relies on scientific and mathematical evidence to form strong inductive or deductive arguments for guidance and decision-making. Practices that are not evidence-based may rely on tradition, intuition, or other unproven methods.
 - Evidence-based Software Design(EBSD): A personally coined term that is fully interchangeable with Empirical Software Engineering(ESE) that denote the exact same thing/idea.
