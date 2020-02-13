@@ -226,7 +226,7 @@ The following excerpt from the following [paper](https://itrau.co/gh-ebse2) is t
 
 Additionally, this applies to countless enterprise technology-first environments and teams... 
 
-<details><summary>ITILv3 is Legacy AF</summary>
+<details><summary>ITILv3 is Legacy</summary>
 <p>
 
 ITILv3 is so obsessed with processes improvement in the form of written proposals, that metrics and KPIs of any type are never implimented, so the decision makers in such orgs remain in the dark to their actual state of tech.
