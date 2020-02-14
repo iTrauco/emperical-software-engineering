@@ -23,17 +23,43 @@ You can checkout the [Internet Archive](https://itrau.co/IA-nps) or see a summar
 
 ## Table of Contents
 
-## DigitalCrafts Code School
+## The Hard Question
+
+A few days after my code school graduation, I reached out to [Jeff Meyerson](https://www.linkedin.com/in/jeff-meyerson-05275716/), the creator and host of [The Software Engineering Daily(SEDaily) Podcast](https://softwareengineeringdaily.com/) via the shows Slack Channel. 
+
+I have been a devoted listener of this show for three years, in the beginning I understood maybe 20% of what they talked about, but I loved it anyway.   
+
+I just wanted to thank him for the work on does on his podcast, and that I just finished after years of being I could never be a software engineer.  
+
+I love the hard questions he asks on his show, and after congratulating me he asked me a something I wasn't expecting... 
+
+He said... 
+```
+Now that you can program, what are you going to contribute to the world of software, what impact are you going to have?
+```
+
+I never was expecting to be asked such a deep question, and I had no answer, so after a few minutes of silence I said, 'Let me get back to you tomorrow.'
+
+The next day, I still had no answer, so I messaged him and said, " I will have to get back to you on this,'to which  which he replied, 
+
+```
+Please do I want to know. 
+```
+
+It was his question that sent me on an eight month long journey through empirical and scientific paper research to locate an answer... 
+
+In June of last year, when he asked me this, I knew that I wanted to be a future guest on his show; my goal was to do it within 3 years, so I have about 2 years and 4 months left. 
+
+I still have not replied to him to let him, because I need this repo to outline the next 18 - 24 months as a roadmap to the answer I will give him. 
+
+## Code School
 
 <details open><summary>My Experience</summary>
 <p>
 
 In the months since my code school graduation, the 00:00:00 timestamps that litter my [DigitalCrafts](https://digitalcrafts.com) GitHub era private repos have enabled me to use the recorded video lectures for a post-mortem analysis of my student developer experience at DigitalCrafts; and the insights I have gained from this process have been life-altering. 
 
-[Chris Aquino(@radishmouse)](https://github.com/radishmouse) was an exceptional instructor, and, in rewatching and listening to every recorded video lecture at least 2 -3 times over again, I now understand the message and direction he and the DIRS were trying to guide me to when I was a student developer. 
-
 [Public YouTube Video of Recorded DC Lecture](https://itrau.co/2019-05-02-lecture1)
-
 
 <details><summary>Hour:Minute:Second TimeStamps & Recorded Video Lectures</summary>
 <p>
@@ -295,6 +321,30 @@ This has quote has been a guiding principle of my life since I was kid, I idoliz
 
 <!------------------------------------------------>
 <!------------------------------------------------>
+## DevOps is Evidence-based Practice
+<details><summary></summary>
+<p>
+
+"Coding bootcamp graduates are NOT engineers..." is what I was told by Senior Software Engineers who adhere to tradition... 
+
+DevOps is so much more then a movement, it is, at it's core, empiricism and evidence-based practice approach methodologies applied to the world of systems engineering; there is depth to this that goes far beyond the aspects and notions of tooling and automation, these things are only scratching the surface. 
+
+Infrastructure is the equivalent of an organism, and I realize that in order to study the implications of empirical research into this emerging body knowledge, I needed to optmize my setup; I need a lab, or as close as I can get to one in my studio apartment in Downtown Atlanta.  
+
+It has taken five days and several hundred dollars in whiteboard paint, but I have three walls worthy of startup office whiteboard collaboration space all to myself, a brand new 34" Ultrawide Monitor, and a 50" Ultra4K TV on caster wheels. 🤓
+
+This a vast body of scientific knowledge, and what I am realizing is that it is my background in and original college education in the theory of evidence-based practice clinical medicine has evolved into a habitual need for empirical research in my decision making process.
+
+It is my ability for deep research that sets me apart from every DevOps engineer I have ever known; IT as a field is boring to research with ITILv3/ITILv4 process improvement written proposals.
+
+DevOps empirical research on the other hand is just as fascinating to me as clinical research, on a team, in the right org that values this work; I can drive stragetic longterm advantages as a junior engineer that delivers org-wide impact. 
+
+Traditional IT and software engineering higher-education programs do not teach this, on any level; this is a powerful skillset I possess that very few people have.
+
+</p>
+\<details>
+<!------------------------------------------------>
+<!------------------------------------------------>
 ## A Return to Academia
 
 <details><summary>KSU</summary>
@@ -326,14 +376,10 @@ Kennesaw State University's offers a Masters in Systems Engineering I have been 
 <details><summary>A - Z</summary>
 <p>
 
-- Atlanta(ATL): DC Headquarters in Atlanta, Georgia 
-- DigitalCrafts(DC): An accelerated code school for tech
 - Evidence-based Practice(EBP): Any practice that relies on scientific and mathematical evidence to form strong inductive or deductive arguments for guidance and decision-making. Practices that are not evidence-based may rely on tradition, intuition, or other unproven methods.
 - Evidence-based Software Design(EBSD): A personally coined term that is fully interchangeable with Empirical Software Engineering(ESE) that denote the exact same thing/idea.
 - Empirical Software Engineering(ESE): Is a research area concerned with the empirical observation of software engineering artifacts and the empirical validation of software engineering theories and assumptions.
-- Houston(HOU): The DC Houston, Texas Campus
 - Software Engineering(SE): the creation and maintenance of software. But from a research perspective, software engineering is the body of knowledge about the creation and maintenance of software and about the phenomena underlying and emerging from those two activities.
 - Post-Mortem Analysis(PMA):  An empirical study method in software engineering. It is an important, but often forgotten, way of gathering empirical knowledge. PMA is ideally performed either soon after the most important milestones and events or at the end of a project, both in s uccessful and unsuccessful software development projects. The benefit is that post-mortems can often reveal findings more frequently and differently than project completion reports alone.
-- Tampa(TPA): The DC Tampa Bay, Florida Campus
 </p>
 </details>
