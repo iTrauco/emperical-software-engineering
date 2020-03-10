@@ -23,7 +23,12 @@ You can checkout the [Internet Archive](https://itrau.co/IA-nps) or see a summar
 
 ## Table of Contents
 
+
+
 ## The Hard Question
+
+<details><summary>The question I never expected...</summary>
+<p>
 
 A few days after my code school graduation, I reached out to [Jeff Meyerson](https://www.linkedin.com/in/jeff-meyerson-05275716/), the creator and host of [The Software Engineering Daily(SEDaily) Podcast](https://softwareengineeringdaily.com/) via the shows Slack Channel. 
 
@@ -52,78 +57,17 @@ In June of last year, when he asked me this, I knew that I wanted to be a future
 
 I still have not replied to him to let him, because I need this repo to outline the next 18 - 24 months as a roadmap to the answer I will give him. 
 
+
+</p>
+</details>
+
 ## Code School
 
-<details open><summary>My Experience</summary>
+<details open><summary>This is a work in progress...</summary>
 <p>
 
 In the months since my code school graduation, the 00:00:00 timestamps that litter my [DigitalCrafts](https://digitalcrafts.com) GitHub era private repos have enabled me to use the recorded video lectures for a post-mortem analysis of my student developer experience at DigitalCrafts; and the insights I have gained from this process have been life-altering. 
 
-[Public YouTube Video of Recorded DC Lecture](https://itrau.co/2019-05-02-lecture1)
-
-<details><summary>Hour:Minute:Second Timestamps & Recorded Video Lectures</summary>
-<p>
-
-<br> New material is covered so fast in a full-time, immersive code school classroom that even with my ability to type upwards of 100+ WPM, I found it impossible to jot down notes for everything I wanted to during lecture. 
-
-As a result, by week four, I had adopted the use of timestamps as placement holders in the code I uploaded to GitHub that allowed me to backtrack to a specific moment in the recorded lecture videos very efficiently by correlating the timestamp with the clock time of my instructors Mac in the Hours:Minutes:Seconds format. </br>
-
-
-<details><summary>2019_05_02 Code Example</summary>
-<p>
-
-Line four of the code block below highlights my usage of the Hour:Minute:Second format timestamp in my code, the full GitHub code block can be reviewed [here](https://itrau.co/0502lecture1).
-<br> 
-</br>
-
-```javascript
-1
-2 const express = require('express');
-3 const app = express();
-4 // @ 13:58:00; approx
-5 app.use(express.urlencoded({extended: true}));
-
-...
-```
-
-</p>
-</details>
-
-<details><summary>2019_05_02 Recorded Video Lecture</summary>
-<p>
-
-As a former IT Admin, I knew that I would have to backup and preserve any/all DC provided recorded video lectures, and I did...
-
-I have every single lecture cataloged privately on YouTube , with the timestamps in the code tagged to the video playback time.
-
-For example 
-
-```javascript
-...
-3 const app = express();
-4 // @ 13:58:00; approx
-5 app.use(express.urlencoded({extended: true}));
-...
-```
-
-<br>
-<a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/youtube-comments-example.png" title="youtube-comments" alt="youtube-comments-example"></a>
-</br>
-
-<details><summary>Video Mac Clock & Timestamp Match up</summary>
-<p>
-<br>
-<a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/Screen%20Shot%202020-02-07%20at%207.46.51%20PM.png" title="time-clock-example" alt="time-clock-examples"></a>
-</br>
-
-</p>
-</details>
-
-</p>
-</details>
-
-</p>
-</details>
 
 <details><summary>Imposter Syndrome</summary>
 <p>
@@ -175,11 +119,6 @@ Blood lab values, toxicology reports, vital signs, urine labs, etc, serve the pu
 <details><summary>Two</summary>
 <p>
 
-What drew me to medicine was an encounter with Central Asia bound Doctors Without Borders nurses during a fall 2009 academic study abroad at Moscow State University in Russia; I felt the energy of their cause and canceled plans to attend UGA for Russian Studies...
-
-I lived in Moscow for six months, and in the summer of 2012, I attended Belarusian State University in Minsk, Belarus for six weeks; every two years since then I have returned to Minsk for a two - three week trip abroad.
-
-I studied Russian at Georgia Tech as a dual-enrollment student during my time at Gordon College, and fell in love with everything GT... 
 
 </p>
 </details>
@@ -277,7 +216,7 @@ EBSD is both an art and a science sprinkled with a liberal arts style of critica
 
 <!------------------------------------------------>
 <!------------------------------------------------>
-## Current Work
+## The Stigma
 
 <details><summary>Killing the 'Coding Bootcamp Graduate' Stigma</summary>
 <p>
@@ -379,6 +318,13 @@ I may have left Apple, but the company remains a core part of my identity to thi
 </p>
 </details>
 
+
+<details><summary>The Absence of Leadership</summary>
+<p>
+
+</p>
+</details>
+
 <details><summary>April 2020 GRE</summary>
 <p>
 
@@ -389,6 +335,8 @@ I had transferred my AS in nursing to SNHU, with a goal of completing a BS in IT
 I began prepping in October of last year and am proud of myself for sticking to the 15 hour a week study/prep plan I produced; I I am officially registered for the April 26th 2020 Graduate Record Examination!
 </p>
 </details>
+
+## My Princples
 
 <!--- LEGEND --->
 <!-------------->
