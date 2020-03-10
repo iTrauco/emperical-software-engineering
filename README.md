@@ -61,12 +61,12 @@ In the months since my code school graduation, the 00:00:00 timestamps that litt
 
 [Public YouTube Video of Recorded DC Lecture](https://itrau.co/2019-05-02-lecture1)
 
-<details><summary>Hour:Minute:Second TimeStamps & Recorded Video Lectures</summary>
+<details><summary>Hour:Minute:Second Timestamps & Recorded Video Lectures</summary>
 <p>
 
 <br> New material is covered so fast in a full-time, immersive code school classroom that even with my ability to type upwards of 100+ WPM, I found it impossible to jot down notes for everything I wanted to during lecture. 
 
-As a result, by week four, I had adopted the use of timestamps as placement holders in the code I uploaded to GitHub that allowed me to backtrack to a specific moment in the recorded lecture videos very efficiently by corellating the timestamp with the clock time of my instructors Mac in the Hours:Minutes:Seconds format. </br>
+As a result, by week four, I had adopted the use of timestamps as placement holders in the code I uploaded to GitHub that allowed me to backtrack to a specific moment in the recorded lecture videos very efficiently by correlating the timestamp with the clock time of my instructors Mac in the Hours:Minutes:Seconds format. </br>
 
 
 <details><summary>2019_05_02 Code Example</summary>
@@ -110,7 +110,7 @@ For example
 <a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/youtube-comments-example.png" title="youtube-comments" alt="youtube-comments-example"></a>
 </br>
 
-<details><summary>Video Mac Clock & Timestamp Matchup</summary>
+<details><summary>Video Mac Clock & Timestamp Match up</summary>
 <p>
 <br>
 <a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/Screen%20Shot%202020-02-07%20at%207.46.51%20PM.png" title="time-clock-example" alt="time-clock-examples"></a>
@@ -134,7 +134,7 @@ I was always been embarrassed by the BA in General Studies on my resume, so much
 
 My technical/IT background landed me interviews that most code school grads would have been passed over for by HR/IT Recruiters, and I witnessed firsthand the ‘stigma’ of the ‘coding bootcamp graduate’ stereotype that so many Senior SEs hold. 
 
-This 'stigma' is widespread due to the rise of 'nerd-masculinity' in the field of computer science that occured in 1970s to early 1980s as the sector transitioned from a female dominated one to a male dominated one; and it remains widespread through senior level engineering positions in all sectors. 
+This 'stigma' is widespread due to the rise of 'nerd-masculinity' in the field of computer science that occurred in 1970s to early 1980s as the sector transitioned from a female dominated one to a male dominated one; and it remains widespread through senior level engineering positions in all sectors. 
 
 <details><summary>NETWORKS OF EXCLUSION IN A GENDERED ORGANIZATION IN THE HIGH-TECH INDUSTRY</summary>
 <p>
@@ -159,7 +159,7 @@ I found the following passage from this [research paper](https://itrau.co/Gender
 <details><summary>One</summary>
 <p>
 
-Is that I am/was a nurse, I graduated from Gordon State College in December 2012 with an Associates of Science in Nursing and immediately passed my NCLEX for RN licensure; which I let expire years ago after joining the ranks of Apple corporate. 
+Is that I am/was a nurse, I graduated from Gordon State College in December 2012 with an Associates of Science in Nursing and immediately passed my NCLEX for my RN license; which I let expire years ago after joining the ranks of Apple corporate. 
 
 I worked professionally as a nurse for a month before quitting, the emotional toll of a career surrounded by illness and death and loosing patients on a daily basis was something I could not do. 
 
@@ -177,7 +177,7 @@ Blood lab values, toxicology reports, vital signs, urine labs, etc, serve the pu
 
 What drew me to medicine was an encounter with Central Asia bound Doctors Without Borders nurses during a fall 2009 academic study abroad at Moscow State University in Russia; I felt the energy of their cause and canceled plans to attend UGA for Russian Studies...
 
-I lived in Moscow for six months, and in the summer of 2012, I attended Belarussian State University in Minsk, Belarus for six weeks; every two years since then I have returned to Minsk for a two - three week trip abroad.
+I lived in Moscow for six months, and in the summer of 2012, I attended Belarusian State University in Minsk, Belarus for six weeks; every two years since then I have returned to Minsk for a two - three week trip abroad.
 
 I studied Russian at Georgia Tech as a dual-enrollment student during my time at Gordon College, and fell in love with everything GT... 
 
@@ -255,7 +255,7 @@ Additionally, this applies to countless enterprise technology-first environments
 <details><summary>ITILv3 is Legacy</summary>
 <p>
 
-ITILv3 is so obsessed with processes improvement in the form of written proposals, that metrics and KPIs of any type are never implimented, so the decision makers in such orgs remain in the dark to their actual state of tech.
+ITILv3 is so obsessed with process improvement in the form of written proposals, that metrics and KPIs of any type are never implimented, so the decision makers in such orgs remain in the dark to their actual state of tech.
 
 The adoption of evidence-based practice approach methodologies as a key component of organizational technology governance strategies acts as a safeguard against 'tradition' and the folklore behind institutionalized SOPs that exist in the form of 'we have always done it this way.' 
 
@@ -266,7 +266,7 @@ EBSD adoption goes far beyond the capabilities of Splunk, Nagios, or monitoring 
 </p>
 </details> 
 
-EBSD requires an org, on every level, to exist in a constant state of evolution in response to new and emerging discoveries that drive innovation from the bottom-up, not the top-down.
+EBSD enables an or on every level to exist in a constant state of evolution in response to new and emerging discoveries that drive innovation from the bottom-up, not the top-down.
 
 EBSD is both an art and a science sprinkled with a liberal arts style of critical thinking and analysis that allows an org to exist in a fluidic state of continous enhancement.
 
@@ -284,7 +284,7 @@ EBSD is both an art and a science sprinkled with a liberal arts style of critica
 
 "Coding bootcamp graduates are NOT engineers..." is what I was told by Senior Software Engineers, but, what I now realize is that this field lacks credible theory and is based largely on 'tradition,' in the absence of inquiry into the multidimensional state of this field through the analysis of the scientific method and the collective advancement towards credible theories, the entire basis for their arguments exists as a house of cards on a straw foundation that is just one huff, and buff, away from being blown into oblivion...
 
-I argue that it is the diversity of the interdisciplinary educational backgrounds of code school grads that empowers us with the knowledge to view the 'state of things' in this field from an entirely outside perspective that will enable, for the first time, establish concrete theories in this field; it is this advantage that we have over the classically trained Ivey League-educated software engineers of the past. 
+I argue that it is the diversity of the interdisciplinary educational backgrounds of code school grads that empowers us with the knowledge to view the 'state of things' in this field from an entirely outside perspective that will enable, for the first time, establish concrete theories in this field; it is this advantage that we have over the classically trained Ivy League-educated software engineers of the past. 
 
 Their argument is based on 'tradition,' folklore, and conjecture that's the equivalent of the pseudosciences, and our interdisciplinary backgrounds threaten to expose that reality...
 
@@ -306,7 +306,7 @@ Code school graduates are the gateway for a pool of technical talent with the ex
 
 As a founding member of Out In Tech ATL, I am obligated to take this argument into the halls of academia to fight fire with fire. 
 
-We have been stigmatized as being a 'bootleg' caste of wannabe technophiles by the Ivey League-educated software engineers of yesteryear who have failed for fifty years to establish theory that can be peer-review duplicated, it is the absence of doctrine based on the principles of the scientific method that invalidates any claim they have to being  'scientists.' 
+We have been stigmatized as being a 'bootleg' caste of wannabe technophiles by the Ivy League-educated software engineers of yesteryear who have failed for fifty years to establish theory that can be peer-review duplicated, it is the absence of doctrine based on the principles of the scientific method that invalidates any claim they have to being  'scientists.' 
 
 ```
 extraordinary claims requires extraordinary evidence.
@@ -321,50 +321,72 @@ This has quote has been a guiding principle of my life since I was kid, I idoliz
 
 <!------------------------------------------------>
 <!------------------------------------------------>
-## DevOps is Evidence-based Practice
-<details><summary></summary>
+
+## DevOps/SRE is EBSD
+<details><summary>Scientific Eloquence...</summary>
 <p>
 
 "Coding bootcamp graduates are NOT engineers..." is what I was told by Senior Software Engineers who adhere to tradition... 
 
 DevOps is so much more then a movement, it is, at it's core, empiricism and evidence-based practice approach methodologies applied to the world of systems engineering; there is depth to this that goes far beyond the aspects and notions of tooling and automation, these things are only scratching the surface. 
 
-Infrastructure is the equivalent of an organism, and I realize that in order to study the implications of empirical research into this emerging body knowledge, I needed to optmize my setup; I need a lab, or as close as I can get to one in my studio apartment in Downtown Atlanta.  
-
-It has taken five days and several hundred dollars in whiteboard paint, but I have three walls worthy of startup office whiteboard collaboration space all to myself, a brand new 34" Ultrawide Monitor, and a 50" Ultra4K TV on caster wheels. 🤓
+Infrastructure is the equivalent of an organism, and I realize that in order to study the implications of empirical research into this emerging body knowledge, I needed to optimize my setup; I need a lab, or as close as I can get to one in my studio apartment in Downtown Atlanta.  
 
 This a vast body of scientific knowledge, and what I am realizing is that it is my background in and original college education in the theory of evidence-based practice clinical medicine has evolved into a habitual need for empirical research in my decision making process.
 
 It is my ability for deep research that sets me apart from every DevOps engineer I have ever known; IT as a field is boring to research with ITILv3/ITILv4 process improvement written proposals.
 
-DevOps empirical research on the other hand is just as fascinating to me as clinical research, on a team, in the right org that values this work; I can drive stragetic longterm advantages as a junior engineer that delivers org-wide impact. 
+DevOps empirical research on the other hand is just as fascinating to me as clinical research, on a team, in the right org that values this work; I can drive strategic long-term advantages as a junior engineer that delivers org-wide impact. 
 
-Traditional IT and software engineering higher-education programs do not teach this, on any level; this is a powerful skillset I possess that very few people have.
-
-</p>
-\<details>
-<!------------------------------------------------>
-<!------------------------------------------------>
-## A Return to Academia
-
-<details><summary>KSU</summary>
-<p>
-
-Kennesaw State University's offers a Masters in Systems Engineering I have been eyeing for years... 
-</p>
-</details>
-
-<details><summary>The Development of a Theory...</summary>
-<p>
-
+Traditional IT and software engineering higher-education programs do not teach this, at least on the undergraduate level; this is a powerful skill set I possess that very few people have.
 
 </p>
 </details>
 
-<details><summary>The GRE in April 2020</summary>
+<!------------------------------------------------>
+<!------------------------------------------------>
+## A Return to Academia && Tech Leadership
+
+<details><summary>Grad School</summary>
 <p>
 
+Without a doubt, I will be entering a graduate program in the next 24 months to pursue an advanced degree with a focus on some aspect of technology...
 
+However, at this time, it is far to early to decide what that degree will be because I don't have a purpose or mission in this industry. 
+
+The purpose of an advanced degree is strategic in nature, and should only be started by someone with an established presence in a specific field or industry; grad school is a highly calculated decision that requires extensive research.
+
+The tactical advantage of a highly vetted graduate program is the emergence of deep analytical awareness for the conceptual frameworks at the heart of an industry or field. 
+
+At this time, I have no mentors or leaders in the tech industry or IT field that I lookup to for guidance and professional career development; my status and influence at Apple was strictly limited to my org in Austin, at this time, I am a nobody. 
+</p>
+</details>
+
+<details><summary>Apple Leadership</summary>
+<p>
+
+Tara Bunch, the SVP of my former org at Apple serves as a testament to the power of strong leadership, and, to this day, the message of her 2013 'One Apple' vision of a unified global company culture still inspires me.
+
+Apple was so much more than just a 'job' to me, it was a way of life. Apple, as a company, became a critical part of my identity. To this stay, I still say 'we' when referring to my time at the company.
+
+Tim Cook, Apple's current CEO, who leads an army of 100,000+ strong, replied within minutes of sending him an email about my roommate, who was a part-time Apple Store employee, having to take on a second part-time job to cover the upfront cost of tuition for the same college class that our third roommate, a corporate part-time Apple employee, had secured a delayed payment agreement for due the tuition assistance benefit that Apple corporate employees working 20+ hours week are elligible for...     
+
+The question I asked was simple, "Are we really 'One Apple'?"
+
+The impact of this chain reaction resulted in the full expansion of company benefits that all PT corporate employees working 20 or more hours a week were are eligible for being extended to all PT retail store employees working the same number of hours in late 2014; I have no idea what went on behind closed doors in Cuptertino after this, I obviously had no part anything beyond speaking up for something I thought Apple Leadership should know... 
+
+I may have left Apple, but the company remains a core part of my identity to this day, and likely will until the day I die.  
+</p>
+</details>
+
+<details><summary>April 2020 GRE</summary>
+<p>
+
+I knew years ago that I wanted to pursue an advanced graduate degree, I even started a Masters in IS in 2016 and completed three classes before leaving Apple and losing my tuition assistance benefits.  
+
+I had transferred my AS in nursing to SNHU, with a goal of completing a BS in IT, but after three years of taking one class a term with more then a few terms off in order to focus on Apple, I still had at least 1 1/2 years left to go.
+
+I began prepping in October of last year and am proud of myself for sticking to the 15 hour a week study/prep plan I produced; I I am officially registered for the April 26th 2020 Graduate Record Examination!
 </p>
 </details>
 
