@@ -321,8 +321,9 @@ This has quote has been a guiding principle of my life since I was kid, I idoliz
 
 <!------------------------------------------------>
 <!------------------------------------------------>
-## DevOps is Evidence-based Practice
-<details><summary></summary>
+
+## DevOps/SRE is EBSD
+<details><summary>Scientific Eloquence...</summary>
 <p>
 
 "Coding bootcamp graduates are NOT engineers..." is what I was told by Senior Software Engineers who adhere to tradition... 
@@ -331,23 +332,22 @@ DevOps is so much more then a movement, it is, at it's core, empiricism and evid
 
 Infrastructure is the equivalent of an organism, and I realize that in order to study the implications of empirical research into this emerging body knowledge, I needed to optimize my setup; I need a lab, or as close as I can get to one in my studio apartment in Downtown Atlanta.  
 
-It has taken five days and several hundred dollars in whiteboard paint, but I have three walls worthy of startup office whiteboard collaboration space all to myself, a brand new 34" ultrawide monitor, and a 50" Ultra4K TV on caster wheels. 🤓
-
 This a vast body of scientific knowledge, and what I am realizing is that it is my background in and original college education in the theory of evidence-based practice clinical medicine has evolved into a habitual need for empirical research in my decision making process.
 
 It is my ability for deep research that sets me apart from every DevOps engineer I have ever known; IT as a field is boring to research with ITILv3/ITILv4 process improvement written proposals.
 
 DevOps empirical research on the other hand is just as fascinating to me as clinical research, on a team, in the right org that values this work; I can drive strategic long-term advantages as a junior engineer that delivers org-wide impact. 
 
-Traditional IT and software engineering higher-education programs do not teach this, on any level; this is a powerful skill set I possess that very few people have.
+Traditional IT and software engineering higher-education programs do not teach this, at least on the undergraduate level; this is a powerful skill set I possess that very few people have.
 
 </p>
-\<details>
-<!------------------------------------------------>
-<!------------------------------------------------>
-## A Return to Academia
+</details>
 
-<details><summary>Graduate School</summary>
+<!------------------------------------------------>
+<!------------------------------------------------>
+## A Return to Academia && Tech Leadership
+
+<details><summary>Grad School</summary>
 <p>
 
 Without a doubt, I will be entering a graduate program in the next 24 months to pursue an advanced degree with a focus on some aspect of technology...
@@ -373,14 +373,20 @@ Tim Cook, Apple's current CEO, who leads an army of 100,000+ strong, replied wit
 
 The question I asked was simple, "Are we really 'One Apple'?"
 
-The impact of this chain reaction resulted in the full expansion of company benefits that all PT corporate employees working 20 or more hours a week were are eligible for being extended to all PT retail store employees working the same number of hours in late 2014.
+The impact of this chain reaction resulted in the full expansion of company benefits that all PT corporate employees working 20 or more hours a week were are eligible for being extended to all PT retail store employees working the same number of hours in late 2014; I have no idea what went on behind closed doors in Cuptertino after this, I obviously had no part anything beyond speaking up for something I thought Apple Leadership should know... 
+
+I may have left Apple, but the company remains a core part of my identity to this day, and likely will until the day I die.  
 </p>
 </details>
 
-<details><summary>The GRE in April 2020</summary>
+<details><summary>April 2020 GRE</summary>
 <p>
 
+I knew years ago that I wanted to pursue an advanced graduate degree, I even started a Masters in IS in 2016 and completed three classes before leaving Apple and losing my tuition assistance benefits.  
 
+I had transferred my AS in nursing to SNHU, with a goal of completing a BS in IT, but after three years of taking one class a term with more then a few terms off in order to focus on Apple, I still had at least 1 1/2 years left to go.
+
+I began prepping in October of last year and am proud of myself for sticking to the 15 hour a week study/prep plan I produced; I I am officially registered for the April 26th 2020 Graduate Record Examination!
 </p>
 </details>
 
