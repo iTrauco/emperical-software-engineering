@@ -132,6 +132,14 @@ I loved the Carter Center, but the pace of things was to slow for me…
 <details><summary>Three</summary>
 <p>
 
+I left Apple under the impression and false-belief that every startup and tech firm in existence had a culture just like Apple, which I defined by my experience under Tara Bunch’s ‘One Apple’ vision, where everyone treated everyone as equals and treated with the same respect and kindness as our customers. 
+
+Only once, in my entire history with the company, did I witness an Apple employee go irate, I mean just totally ballistic, on another Apple employee.
+
+If I remember correctly, this girl had been sent by her manager in a totally different department with an envelope that contained bad news for whatever was stressing these teams out.
+
+Within 60 seconds, every member of member of management within earshot had dropped it all to intervene.
+
 I entered the world of startups as the ‘Apple’ IT guy at a startup that is now defunk in the summer of 2017 out of a co-working space I will not disclose the name of…
 
 The situation of this startup was like this…
