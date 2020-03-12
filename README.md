@@ -132,6 +132,8 @@ I loved the Carter Center, but the pace of things was to slow for me…
 <details><summary>Three</summary>
 <p>
 
+I officially made the decision to enter the world of startups; I was confident in my abilities and intellect. 
+
 I left Apple under the impression and false-belief that every startup and tech firm in existence had a culture just like Apple, which I defined by my experience under Tara Bunch’s ‘One Apple’ vision, where everyone treated everyone as equals and treated with the same respect and kindness as our customers. 
 
 Only once, in my entire history with the company, did I witness an Apple employee go irate, I mean just totally ballistic, on another Apple employee.
