@@ -98,9 +98,9 @@ I found the following passage from this [research paper](https://itrau.co/Gender
 <!------------------------------------------------>
 <!------------------------------------------------>
 
-## Little Known Facts About Me...
+## The Missing Years... 
 
-<details><summary>One</summary>
+<details><summary>2010 - 2012</summary>
 <p>
 
 Is that I am/was a nurse, I graduated from Gordon State College in December 2012 with an Associates of Science in Nursing and immediately passed my NCLEX for my RN license; which I let expire years ago after joining the ranks of Apple corporate. 
@@ -116,8 +116,24 @@ Blood lab values, toxicology reports, vital signs, urine labs, etc, serve the pu
 </p>
 </details>
 
-<details><summary>Two</summary>
+<details><summary>2017: Part I</summary>
 <p>
+
+**Part I**
+
+I went into 2017 with a business plan to bootstrap Nerdy Pug Studios into a full fledge startup; I had contacts in the pet industry that wanted to fund me, but I said no. 
+
+Long story short, operationally and product wise I did well, I was able to use the Etsy Wholeseller Market Place to an amazing success of 80k in sales. 
+
+I failed with the people part, I paid my contractors well, I only needed them during batch orders. The problem is that everytime I found someone and trained them, other places they contracted with would need them at the same time as me. 
+
+There are 20+ multi-million dollar a year dog collar shops on Etsy, and not a single one of them have a background in product design, textiles, or industrial process design; and their creations are the most unsafe, non-tested things ever.
+
+I have deep contacts in the pet industry from a company I at 18; Scoop D'Poo: South Atlanta's Pooper Scooper, which I turned into a small fleet of trucks, contractors, pet sitters, and dog walkers within a year... 
+
+There's articles about it online if you want to Google it. 
+
+**Part II**
 
 I have never worked in a traditional corporate IT environment, besides a two 3  week long stints as IT Support temp at the Carter Center in 2017.
 
@@ -129,7 +145,7 @@ I loved the Carter Center, but the pace of things was to slow for me…
 </p>
 </details>
 
-<details><summary>Three</summary>
+<details><summary>2017: Part II</summary>
 <p>
 
 When I officially made the decision to enter the world of startups; I was confident in my abilities and intellect. 
