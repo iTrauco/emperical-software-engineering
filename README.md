@@ -8,11 +8,9 @@ width="250" title="iTrauco" alt="iTrauco"></a>
 
 Aligning my background with the world of Software Engineering has been the single greatest personal challenge I faced to date; since my time as a student developer at DigitalCrafts I have have been unable to connect with others because of the a few bad apples in every startup I have been in with that broke me down every chance they got. 
 
-In all three startups, I was the first member of IT on the frontlines of support, touching every level of an org from c-suite to interns; each time I was brought on because of rapid growth which saw the number of employees double or triple in a matter of months. 
+In all three startups, I was the first member of IT on the frontlines of support, touching every level of an org from c-suite to interns; each time I was brought on because of rapid growth which saw the number of employees double or triple in a matter of months. I have experienced the worst of startup culture, through relentless bullying in Slack, belittling emotional tirades from software engineers, phycial threats from project managers who wanted 'mobile hotspots right now', and major internal security and compliance coverups that I was told to delete any/all documentation for.
 
-I have experienced the worst of startup culture, through relentless bullying in Slack, belittling emotional tirades from software engineers, phycial threats from project managers who wanted 'mobile hotspots right now', and major internal security and compliance coverups that I was told to delete any/all documentation for.
-
-98% of people in startups are amazing, its the 2% that brought me to tears at night; sitting alone in an open office after everyone has gone home because it is the only time had space for the 10+ new hire Macs that start each week and took 2+ hours to configure because someone thought Windows 10 Bootcamp was a great idea for a fleetwide 200+ MacBook Pros... 
+Not now, but in 10 or 15 years, I see myself as a member of c-suite with a vision I have yet to define, and, I refuse to let anyone under my guidance suffer in silence the way I did, because, in all honesty, it has consumed me to the point of indecision that has manifested itself through imposter-syndrome and fear of connecting with those around me. 
 
 The following words defined the spirit of a passion project called Nerdy Pug Studios that closed overnight in 2018 due to platform-dependence on Etsy... 
 
