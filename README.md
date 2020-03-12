@@ -119,12 +119,48 @@ Blood lab values, toxicology reports, vital signs, urine labs, etc, serve the pu
 <details><summary>Two</summary>
 <p>
 
+I have never worked in a traditional corporate IT environment, besides a two 3  week long stints as IT Support temp at the Carter Center in 2017.
 
+President Jimmy Carter has always been an idol and source of inspiration for me; I met him and Rosalyn several times, and, one time, I had the unexpected pleasure of sitting right beside him at lunch got to ask him about his friendship with Steve Jobs. 
+
+The Carters were one of the first people in the world to receive an iPhone, months before it came out as a gift from Steve Jobs himself. 
+
+I loved the Carter Center, but the pace of things was to slow for me… 
 </p>
 </details>
 
 <details><summary>Three</summary>
 <p>
+
+I entered the world of startups as the ‘Apple’ IT guy at a startup that is now defunk in the summer of 2017 out of a co-working space I will not disclose the name of…
+
+The situation of this startup was like this…
+
+- HQ was based on the west coast
+
+- Atlanta was selected as the location for their flagship ‘second’ office to house engineering and sales due to the ‘founders city’ label of Atlanta
+
+- Rapid growth from a fresh infusion of VC funding meant HR had to fill 40 - 60 positions in just 60 - 90 days for onsite and remote; within a week HR had become PeopleOps and I became an employee of an outsourced human resources app after starting on a 1099
+
+- Overnight, priorities shifted, and new co-working offices are opened with even more employees needing Macs and SaaS app access
+
+- The Software Engineer who was kinda-sorta my manager jumps ship during my second week for a new opportunity and I become the sole IT Admin responsible for all SaaS apps, MacBook Pros, and technical support
+
+- The Help Desk that had been setup was a web app that cost $8 a month
+
+- All Macs were purchased online at Apple.com for pickup at the Lenox Store; I still have no idea whose idea this was
+
+- I had no dedicated space to setup Macs, ship, etc... 
+
+I won’t go into any granular details, but this place broke me; it was, by far, the most vicious and toxic environment I have ever been in.
+
+I was so committed to making it work and to be viewed as a ‘team player,’ that I allowed myself to be an emotional punching bag for Senior SEs and Project Managers that belittled me to the point of tears some evenings.
+
+Since I had no dedicated space, I came in during the evening hours to setup and ship systems, and it was during these hours that I was subject to this harassment; it was equivalent to that one incident I saw at Apple…
+
+I became so afraid, I lived on eggshells and ‘Don’t shoot I’m not a messenger’ became a phrase I would say if I walked by someone I wasn’t sure of… 
+
+I was in this role for three months, and I have never spoken about it or mentioned it on my resume/LinkedIn because it was an experience I simply wanted to ignore and forget…
 
 </p>
 </details>
