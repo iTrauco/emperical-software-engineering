@@ -6,7 +6,15 @@ width="250" title="iTrauco" alt="iTrauco"></a>
 <!-- BADGES -->
 [![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
 
-Aligning my background with the world of Software Engineering through a decades long interdisciplinary history of industrial design, textile engineering, and a deeply engrained awareness for the ideals of evidence-based practice empiricism has been hard for me; the following words defined the spirit of a passion project called Nerdy Pug Studios that closed overnight in 2018 due to platform-dependence on Etsy... 
+Aligning my background with the world of Software Engineering has been the single greatest personal challenge I faced to date; since my time as a student developer at DigitalCrafts I have have been unable to connect with others because of the a few bad apples in every startup I have been in with that broke me down every chance they got. 
+
+In all three startups, I was the first member of IT on the frontlines of support, touching every level of an org from c-suite to interns; each time I was brought on because of rapid growth which saw the number of employees double or triple in a matter of months. 
+
+I have experienced the worst of startup culture, through relentless bullying in Slack, belittling emotional tirades from software engineers, phycial threats from project managers who wanted 'mobile hotspots right now', and major internal security and compliance coverups that I was told to delete any/all documentation for.
+
+98% of people in startups are amazing, its the 2% that brought me to tears at night; sitting alone in an open office after everyone has gone home because it is the only time had space for the 10+ new hire Macs that start each week and took 2+ hours to configure because someone thought Windows 10 Bootcamp was a great idea for a fleetwide 200+ MacBook Pros... 
+
+The following words defined the spirit of a passion project called Nerdy Pug Studios that closed overnight in 2018 due to platform-dependence on Etsy... 
 
 **Our evolving identity is a fusion of multiple stereotypical industry traits, combined with a strong respect and adherence to the empirical and evidence-based practice approach methodologies. We're science geeks, and our creations, particularly our harnesses, are the result of extensive research, development, and prototyping.** 
 
