@@ -323,24 +323,17 @@ This has quote has been a guiding principle of my life since I was kid, I idoliz
 <!------------------------------------------------>
 <!------------------------------------------------>
 
-## DevOps/SRE is EBSD
-<details><summary>Scientific Eloquence...</summary>
+## EBP vs. EBSD
+<details><summary>Expanding</summary>
 <p>
 
-"Coding bootcamp graduates are NOT engineers..." is what I was told by Senior Software Engineers who adhere to tradition... 
+I have come to the conclusion that the term 'Evidence-based Software Design' decribes the traditional process of software development on a team with a least one developer as a 'practitioner' of empirical software engineering. 
 
-DevOps is so much more then a movement, it is, at it's core, empiricism and evidence-based practice approach methodologies applied to the world of systems engineering; there is depth to this that goes far beyond the aspects and notions of tooling and automation, these things are only scratching the surface. 
+EBP, in all of its many forms, should be considered a highly structured way of viewing the world of software engineering through frameworks of scientific inquiry from fields with well established theories. 
 
-Infrastructure is the equivalent of an organism, and I realize that in order to study the implications of empirical research into this emerging body knowledge, I needed to optimize my setup; I need a lab, or as close as I can get to one in my studio apartment in Downtown Atlanta.  
+EBP is not something an org can simply adopt, but it is something that can be implimnented through the selection and hiring of former EBP pracitioners turned code school graduates whose background and prior achievements in an outside field of study are verifiable.  
 
-This a vast body of scientific knowledge, and what I am realizing is that it is my background in and original college education in the theory of evidence-based practice clinical medicine has evolved into a habitual need for empirical research in my decision making process.
-
-It is my ability for deep research that sets me apart from every DevOps engineer I have ever known; IT as a field is boring to research with ITILv3/ITILv4 process improvement written proposals.
-
-DevOps empirical research on the other hand is just as fascinating to me as clinical research, on a team, in the right org that values this work; I can drive strategic long-term advantages as a junior engineer that delivers org-wide impact. 
-
-Traditional IT and software engineering higher-education programs do not teach this, at least on the undergraduate level; this is a powerful skill set I possess that very few people have.
-
+There is a lot of expanding I need to do on this, but, the end goal here is to drive EBSD an interdisciplinary.  
 </p>
 </details>
 
