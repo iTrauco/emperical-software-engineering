@@ -350,7 +350,9 @@ The question I asked was simple, "Are we really 'One Apple'?"
 
 The impact of this chain reaction resulted in the full expansion of company benefits that all PT corporate employees working 20 or more hours a week were are eligible for being extended to all PT retail store employees working the same number of hours in late 2014; I have no idea what went on behind closed doors in Cuptertino after this, I obviously had no part anything beyond speaking up for something I thought Apple Leadership should know... 
 
-I may have left Apple, but the company remains a core part of my identity to this day, and likely will until the day I die.  
+I may have left Apple, but the company remains a core part of my identity to this day, and likely will until the day I die.
+
+**Note:** I need to add that this was a group effort, multiple individuals across multiple orgs reached out to Apple leadership in a coordinated effort all at once. 
 </p>
 </details>
 
