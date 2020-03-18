@@ -6,7 +6,7 @@ width="250" title="iTrauco" alt="iTrauco"></a>
 <!-- BADGES -->
 [![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
 
-**Note** I stumbled upon the book, ['Systems Engineering in the Fourth Industrial Revolution: BigData, Novel Technologies, and Modern Systems Engineering'](itrau.co/4THINDUSTRIAL) last week; and it has been one hell of a find; it's a roadmap for the introduction of evidence-based practice(EBP) as a core component of systems and software engineering practices for the paradigm shift currently underway in this field/industry. Furthermore, it argues that software development/engineering practices will be required to adopt IT governance ways of doing things or collapse from architectural technical debt; I will be updating this further once I have finished the book. 
+**Note** I stumbled upon the book, ['Systems Engineering in the Fourth Industrial Revolution: BigData, Novel Technologies, and Modern Systems Engineering'](https://itrau.co/4THINDUSTRIAL) last week; and it has been one hell of a find; it's a roadmap for the introduction of evidence-based practice(EBP) as a core component of systems and software engineering practices for the paradigm shift currently underway in this field/industry. Furthermore, it argues that software development/engineering practices will be required to adopt IT governance ways of doing things or collapse from architectural technical debt; I will be updating this further once I have finished the book. 
 
 Aligning my background with the world of Software Engineering has been the single greatest personal challenge I faced to date... 
 
@@ -298,7 +298,7 @@ As a scientist, I have to ask...
 Where is the evidence that code school graduates are NOT engineers?
 ```
 
-**Show me the evidence!**
+**Show me the evidence.**
 </p>
 </details>
 
@@ -306,7 +306,7 @@ Where is the evidence that code school graduates are NOT engineers?
 <!------------------------------------------------>
 <!------------------------------------------------>
 
-## EBSB vs. ESE
+## EBSD vs. ESE
 <details><summary>Expanding</summary>
 <p>
 
