@@ -375,6 +375,47 @@ I began prepping in October of last year and am proud of myself for sticking to 
 </details>
 
 ## My Princples
+<details><summary>To Inspire Evidence</summary>
+<p>
+
+We are at the precipice of the Fourth Industrial Revolution, which will commence with the arrival of true 5G in the mid-2020s upon the competition of the first micro-satellites networks that will exponentially drive data analytics and machine learning AI capabilities past the physical limitations of Moore’s Law; the transition from Documents to Data will be sustained through the adoption of complex predictive health monitoring analytics derived from evidence-based practice(EBP) approach methodologies for cloud-native-to-hybrid infrastructure sustainability with an emphasis on prophylactic operational failure interventions vs. the reactive mentality of today. 
+
+The mass, almost overnight, the introduction of EBP into the world of software engineering will see the merging of site-reliability and systems engineering teams into one, similar to DevOps, but with an interdisciplinary twist. Instead of former sysadmins and ops engineers, SRE/Systems Engineering teams will be comprised of engineers and analysts turned coders from every non-computer science discipline, e.g. biology, education, social sciences, legal, and even the  creative arts. 
+
+The exponential speed of the Fourth Industrial Revolution will touch every industry so fast that the traditional schools of thought on computer science and software engineering will be rendered inert in the face of the interdisciplinary scientific frameworks of inquiry required to establish the metrics and KPIs of the coming years… 
+
+EBP opposes tradition, but, at its heart, it is not conclusive or definitive about which course of action to take; instead, practitioners of empirical software engineering apply EBP for insight into the state of things at hand with the end goal of providing decision-makers with quantifiable evidence to enable scientific inquiry, analysis, and interpretation through deductive and inductive reasoning. 
+
+My place in this emerging trend is to encourage, support, and and celebrate both the successes and ‘flops’  of team members that are naturally inquisitive and seek out evidence that can be used to implement new metrics and KPIs for an org through tailored Python data analytics reporting; there will be holdouts, but the collective drive to succeed or fail together is key to inspiring those reluctant to change. 
+
+</p>
+</details>
+<details><summary>To Enable Diversity & Inclusion</summary>
+<p>
+
+</p>
+</details>
+<details><summary>To Coalesce Human Perspectives</summary>
+<p>
+
+
+</p>
+</details>
+<details><summary>To Uphold Respect</summary>
+<p>
+
+</p>
+</details>
+<details><summary>To Empower Reporting</summary>
+<p>
+
+</p>
+</details>
+<details><summary>To ❤️  Skunk Works </summary>
+<p>
+
+</p>
+</details>
 
 <!--- LEGEND --->
 <!-------------->
