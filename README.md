@@ -8,7 +8,8 @@ width="250" title="iTrauco" alt="iTrauco"></a>
 
 **2020-04-06** This repo is no longer being updated, I began writing this to master SpaceVim workflows; I now slay in SpaceVim, which has become my IDE of choice. My personal thoughts, arguments, and research related to whatever this is becoming will continhe via Juypter Notebook. 
 
-**Note** I stumbled upon the book, ['Systems Engineering in the Fourth Industrial Revolution: BigData, Novel Technologies, and Modern Systems Engineering'](https://itrau.co/4THINDUSTRIAL) last week; and it has been one hell of a find; it's a roadmap for the introduction of evidence-based practice(EBP) as a core component of systems and software engineering practices for the paradigm shift currently underway in this field/industry. Furthermore, it argues that software development/engineering practices will be required to adopt IT governance ways of doing things or collapse from architectural technical debt; I will be updating this further once I have finished the book. 
+**Note:** I stumbled upon the book, ['Systems Engineering in the Fourth Industrial Revolution: BigData, Novel Technologies, and Modern Systems Engineering'](https://itrau.co/4THINDUSTRIAL) last week; and it has been one hell of a find; it's a roadmap for the introduction of evidence-based practice(EBP) as a core component of systems and software engineering practices for the paradigm shift currently underway in this field/industry. Furthermore, it argues that software development/engineering practices will be required to adopt IT governance ways of doing things or collapse from architectural technical debt; I will be updating this further once I have finished the book. 
+
 
 Aligning my background with the world of Software Engineering has been the single greatest personal challenge I faced to date... 
 
@@ -125,7 +126,7 @@ Blood lab values, toxicology reports, vital signs, urine labs, etc, serve the pu
 <details><summary>Two</summary>
 <p>
 
-I wanted to go to GA Tech to study computer science, but I am discalculic; I barely passed College Algebra with a 70. I was essentially told to pick something 'more realistic' that didn't involve the physics and calculus classes required to enter GT as a transfer student. 
+I wanted to go to GA Tech to study computer science, but I am a discalculic; I barely passed College Algebra with a 70. I was essentially told to pick something 'more realistic' that didn't involve the physics and calculus classes required to enter GT as a transfer student. 
 
 What I didn't know at the time, was that my dyscalculia is limited to handwritten numbers and equations on a board, e.g. in the classroom, it doesn't carry over to printed text, numbers, and equations. 
 
@@ -322,7 +323,7 @@ There is a lot of expanding I need to do on this, but, the end goal here is to d
 
 <!------------------------------------------------>
 <!------------------------------------------------>
-## A Return to Academia && Tech Leadership
+## A Return to Academia & Tech Leadership
 
 <details><summary>Grad School</summary>
 <p>
@@ -376,23 +377,33 @@ I began prepping in October of last year and am proud of myself for sticking to 
 </p>
 </details>
 
-## My Princples
+## My Principles
 <details><summary>To Inspire Evidence</summary>
 <p>
 
-We are at the precipice of the Fourth Industrial Revolution, which will commence with the arrival of true 5G in the mid-2020s upon the competition of the first micro-satellites networks that will exponentially drive data analytics and machine learning AI capabilities past the physical limitations of Moore’s Law; the transition from Documents to Data will be sustained through the adoption of complex predictive health monitoring analytics derived from evidence-based practice(EBP) approach methodologies for cloud-native-to-hybrid infrastructure sustainability with an emphasis on prophylactic operational failure interventions vs. the reactive mentality of today. 
+We are at the precipice of the Fourth Industrial Revolution, which will commence with the arrival of true 5G in the mid-2020s upon the completion of the first micro-satellite networks that will exponentially drive data analytics and machine learning AI capabilities past the physical limitations of Moore’s Law; the transition from Documents to Data will be sustained through the adoption of complex predictive health monitoring analytics derived from evidence-based practice(EBP) approach methodologies for cloud-native-to-hybrid infrastructure sustainability with an emphasis on prophylactic operational failure interventions vs. the reactive mentality of today. 
 
-The mass, almost overnight, the introduction of EBP into the world of software engineering will see the merging of site-reliability and systems engineering teams into one, similar to DevOps, but with an interdisciplinary twist. Instead of former sysadmins and ops engineers, SRE/Systems Engineering teams will be comprised of engineers and analysts turned coders from every non-computer science discipline, e.g. biology, education, social sciences, legal, and even the  creative arts. 
+The mass, almost overnight, introduction of EBP into the world of software engineering will see the merging of site-reliability and systems engineering teams into one, similar to DevOps, but with an interdisciplinary twist. Instead of former sysadmins and ops engineers, SRE/Systems Engineering teams will be comprised of engineers and analysts turned coders from every non-computer science discipline, e.g. biology, education, social sciences, legal, and even the  creative arts. 
 
 The exponential speed of the Fourth Industrial Revolution will touch every industry so fast that the traditional schools of thought on computer science and software engineering will be rendered inert in the face of the interdisciplinary scientific frameworks of inquiry required to establish the metrics and KPIs of the coming years… 
 
 EBP opposes tradition, but, at its heart, it is not conclusive or definitive about which course of action to take; instead, practitioners of empirical software engineering apply EBP for insight into the state of things at hand with the end goal of providing decision-makers with quantifiable evidence to enable scientific inquiry, analysis, and interpretation through deductive and inductive reasoning. 
 
-My place in this emerging trend is to encourage, support, and and celebrate both the successes and ‘flops’  of team members that are naturally inquisitive and seek out evidence that can be used to implement new metrics and KPIs for an org through tailored Python data analytics reporting; there will be holdouts, but the collective drive to succeed or fail together is key to inspiring those reluctant to change. 
+My place in this emerging trend is to encourage, support, and and celebrate both the successes and 'good trys'  of team members that are naturally inquisitive and seek out evidence that can be used to implement new metrics and KPIs for an org through tailored Python data analytics reporting; there will be holdouts, but the collective drive to succeed or fail together is key to inspiring those reluctant to change. 
 
+I have already begun to experiment with new and innovative ways to implement metrics and KPIs at the most granular of levels with Python; though preliminary, and I def could be wrong, but I feel that this work will prove pivotal in the coming years.
+
+My best work has always been inspired by the innovative and badass automation I once saw DevOps engineers do in G Suite; I will never be able to duplicate their work, but I strive to mimic that same ‘wow factor’ response in the things I automate and create. If nothing else, I would want to inspire that same creativity and problem-solving ingenuity in others.
 </p>
 </details>
 <details><summary>To Enable Diversity & Inclusion</summary>
+<p>
+
+</p>
+</details>
+
+
+<details><summary>To Align Governance</summary>
 <p>
 
 </p>
