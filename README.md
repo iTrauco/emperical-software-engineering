@@ -11,8 +11,6 @@ width="250" title="iTrauco" alt="iTrauco"></a>
 **Note:** I stumbled upon the book, ['Systems Engineering in the Fourth Industrial Revolution: BigData, Novel Technologies, and Modern Systems Engineering'](https://itrau.co/4THINDUSTRIAL) last week; and it has been one hell of a find; it's a roadmap for the introduction of evidence-based practice(EBP) as a core component of systems and software engineering practices for the paradigm shift currently underway in this field/industry. Furthermore, it argues that software development/engineering practices will be required to adopt IT governance ways of doing things or collapse from architectural technical debt; I will be updating this further once I have finished the book. 
 
 
-**Introduction**
-
 Aligning my background with the world of Software Engineering has been the single greatest personal challenge I faced to date... 
 
 The following words defined the spirit of a passion project called Nerdy Pug Studios that closed overnight in 2018 due to platform-dependence on Etsy... 
