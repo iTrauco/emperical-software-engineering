@@ -1,6 +1,6 @@
 # evidence-based-software-engineering
 <a href="http://trau.co">
-<img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/ITRAUCO-black.png"
+<img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/master/assets/images/ITRAUCO-black.png"
 width="250" title="iTrauco" alt="iTrauco"></a>
 
 <!-- BADGES -->
@@ -22,7 +22,7 @@ You can checkout the [Internet Archive](https://itrau.co/IA-nps) or see a summar
 <p>
 
 <br>
-<a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/readme-setup/assets/images/nerdy-pug-about.png" title="nerdy-pug-about" alt="nerdy-pug-studios-about"></a>
+<a href=""><img src="https://github.com/iTrauco/evidence-based-software-engineering/blob/master/assets/images/nerdy-pug-about.png" title="nerdy-pug-about" alt="nerdy-pug-studios-about"></a>
 </br>
 
 </p>
