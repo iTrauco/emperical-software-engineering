@@ -6,6 +6,8 @@ width="250" title="iTrauco" alt="iTrauco"></a>
 <!-- BADGES -->
 [![Generic badge](https://img.shields.io/badge/iTrauco-EBSD-blue.svg)](https://shields.io/) ![GitHub forks](https://img.shields.io/github/forks/iTrauco/evidence-based-software-engineering?style=social) ![GitHub stars](https://img.shields.io/github/stars/iTrauco/evidence-base-software-engineering?style=social)![GitHub followers](https://img.shields.io/github/followers/iTrauco?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/iTrauco?style=social)
 
+**2020-04-06** This repo is no longer being updated, I began writing this to master SpaceVim workflows; I now slay in SpaceVim, which has become my IDE of choice. My personal thoughts, arguments, and research related to whatever this is becoming will continhe via Juypter Notebook. 
+
 **Note:** I stumbled upon the book, ['Systems Engineering in the Fourth Industrial Revolution: BigData, Novel Technologies, and Modern Systems Engineering'](https://itrau.co/4THINDUSTRIAL) last week; and it has been one hell of a find; it's a roadmap for the introduction of evidence-based practice(EBP) as a core component of systems and software engineering practices for the paradigm shift currently underway in this field/industry. Furthermore, it argues that software development/engineering practices will be required to adopt IT governance ways of doing things or collapse from architectural technical debt; I will be updating this further once I have finished the book. 
 
 
